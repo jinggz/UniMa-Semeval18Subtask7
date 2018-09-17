@@ -1,0 +1,1224 @@
+relation,postag1,postag2,entity1,entity2,reverse,prediction
+PART_WHOLE,NNS,NN,rule-invocation strategies,context-free chart parsing,FALSE,PART_WHOLE
+MODEL-FEATURE,NNS,NN,words,capitalization,TRUE,PART_WHOLE
+USAGE,NN,NNP,subcategorization frame,Information Bottleneck,TRUE,USAGE
+MODEL-FEATURE,NNP,NNP,primitive Optimality Theory,OT,FALSE,COMPARE
+MODEL-FEATURE,NN,NNS,parse forest representation,analyses for large treebank grammars,FALSE,MODEL-FEATURE
+COMPARE,NN,NN,s-VSM model,VSM model,FALSE,USAGE
+USAGE,NNS,NNP,computer-assisted acquisition and morpho-syntactic description of verb-noun collocations,Polish,FALSE,PART_WHOLE
+COMPARE,NN,NN,probabilistic context-free grammar,probabilistic finite automaton,FALSE,USAGE
+USAGE,NNS,NNS,lexical approaches,bilingual dictionaries,TRUE,MODEL-FEATURE
+USAGE,NNS,NNS,classification-based representation techniques,unification-based linguistic descriptions,FALSE,MODEL-FEATURE
+RESULT,NN,NNS,accuracy,SMT models,TRUE,RESULT
+USAGE,NNP,NNS,Hierarchical Directed Acyclic Graph (HDAG) Kernel,structured natural language data,FALSE,COMPARE
+MODEL-FEATURE,NN,NNS,text,unambiguous structures,TRUE,PART_WHOLE
+USAGE,NN,NN,grammatical formalisms,context-free phrase-structure grammar,TRUE,USAGE
+TOPIC,NNS,NN,dialog schemata,conversation analysis,TRUE,PART_WHOLE
+PART_WHOLE,NNS,NNS,Languages,words,TRUE,MODEL-FEATURE
+USAGE,NN,NN,parser,pos tag ambiguity,FALSE,USAGE
+MODEL-FEATURE,NN,VBG,ambiguity,speech understanding,FALSE,RESULT
+MODEL-FEATURE,NNS,NNS,features,sentences,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NNS,analytical components,dialog motivators,FALSE,MODEL-FEATURE
+USAGE,VBG,JJ,training,EM-algorithm,TRUE,USAGE
+COMPARE,NNS,NNS,Chinese punctuation marks,cue phrases,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NN,words,information,FALSE,PART_WHOLE
+RESULT,NN,NN,system,70% precision,FALSE,USAGE
+MODEL-FEATURE,NNS,NN,human-machine interactions,natural language environment,TRUE,PART_WHOLE
+MODEL-FEATURE,NNS,NN,predictions,ellipsis,FALSE,PART_WHOLE
+TOPIC,NNS,NN,Semantic theories,natural language,FALSE,MODEL-FEATURE
+USAGE,NN,NNS,model,finite-state models,TRUE,USAGE
+USAGE,VBG,NN,post-processing,output,FALSE,RESULT
+USAGE,NNP,NN,English Wikipedia,target corpus,FALSE,PART_WHOLE
+USAGE,NNS,NN,Definite Clause Grammar techniques,parser,FALSE,PART_WHOLE
+USAGE,NNS,NN,expectations,scruffy texts,FALSE,PART_WHOLE
+RESULT,NN,VBZ,ambiguity,edges,FALSE,COMPARE
+RESULT,NN,NN,word string,performance,FALSE,RESULT
+MODEL-FEATURE,NN,NNS,language model,abstract moves,FALSE,MODEL-FEATURE
+USAGE,NN,NNS,declarative formalism,mappings,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,context,polysemous word,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NN,references,pronoun,FALSE,MODEL-FEATURE
+RESULT,NN,NNP,word string,LM,TRUE,USAGE
+USAGE,NN,VBG,punctuation,parsing,FALSE,RESULT
+PART_WHOLE,NNS,NN,utterances,discourse,FALSE,MODEL-FEATURE
+COMPARE,NNS,NN,verb semantics,syntactic behavior,FALSE,PART_WHOLE
+USAGE,NN,NN,language-independent system,automatic discovery of text,FALSE,USAGE
+MODEL-FEATURE,NN,NNS,lexical weighting,phrase translations,FALSE,MODEL-FEATURE
+USAGE,NN,NNS,generation,dialog systems,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NNS,co-occurrence patterns,words,FALSE,MODEL-FEATURE
+PART_WHOLE,NN,NNS,blackboard-like architecture,partial theories,TRUE,USAGE
+PART_WHOLE,NNS,NN,substrings,sentence,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,morpheme sequence,input,FALSE,USAGE
+USAGE,NNS,NNS,TIPSTER applications,Graphical User Interface (GUI) functions,TRUE,MODEL-FEATURE
+USAGE,VBG,NN,paraphrasing,interpretation and generation of natural language,FALSE,RESULT
+USAGE,NN,NN,Arabic word segmenter,unsegmented Arabic corpus,TRUE,USAGE
+USAGE,NN,NN,construction-specific approach,task-specific language development,FALSE,USAGE
+PART_WHOLE,NN,VBG,user model,user modeling,FALSE,RESULT
+MODEL-FEATURE,NNS,NNS,queries,wildcards,TRUE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NNS,analytical inverses,compositional syntax rules,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NNP,salience,MWEs,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,NNS,model theoretic interpretation,f-structures,FALSE,MODEL-FEATURE
+USAGE,NN,VBG,evaluation measure,block reordering,FALSE,RESULT
+MODEL-FEATURE,NNS,NN,words,context,TRUE,MODEL-FEATURE
+COMPARE,NN,NN,logic,theory,FALSE,USAGE
+USAGE,NNP,NNS,PAKTUS,JINTACCS messages,FALSE,COMPARE
+USAGE,NN,NN,stemming model,statistical machine translation,TRUE,USAGE
+MODEL-FEATURE,NN,NN,meaning,input,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NN,events,sentence,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,structure of communicative context,dialogue interaction,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,lexical items,word clusters,TRUE,MODEL-FEATURE
+USAGE,NN,NNS,natural language processing,Japanese natural language processing studies,FALSE,MODEL-FEATURE
+USAGE,NN,NN,bit-vector-based CKY-style parser,context-free parsing,FALSE,USAGE
+MODEL-FEATURE,NN,NNS,distributed message-passing infrastructure,dialogue systems,FALSE,MODEL-FEATURE
+PART_WHOLE,NN,NNS,unrestricted texts,words,TRUE,MODEL-FEATURE
+PART_WHOLE,NNS,NN,gene and protein interactions,biomedical text,FALSE,PART_WHOLE
+PART_WHOLE,NN,JJ,focus,discourse,FALSE,MODEL-FEATURE
+USAGE,NN,NNP,linguistic parser/generator,LFG,FALSE,PART_WHOLE
+USAGE,NN,NN,computational model,POS learning,FALSE,MODEL-FEATURE
+COMPARE,NNP,JJ,English,Japanese,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,NN,attentional state,focus of attention,FALSE,USAGE
+USAGE,NN,NN,control structure,entity-oriented parser,FALSE,USAGE
+PART_WHOLE,NNS,NN,segment boundaries,spoken multiparty dialogue,FALSE,PART_WHOLE
+MODEL-FEATURE,NNS,NNS,"""theory of attention", intention," and aggregation of utterances""",discourses,FALSE,COMPARE
+MODEL-FEATURE,NNS,NNP,language pairs,GLOSSER,FALSE,PART_WHOLE
+USAGE,NN,NN,syntactic analysis,agenda-based scheduling parser,TRUE,USAGE
+RESULT,NN,NN,Bikel's parser,accuracy,FALSE,RESULT
+USAGE,NN,NN,natural language system,computational lexicon,TRUE,USAGE
+USAGE,NN,NNS,expectation-maximization (EM) based word-clustering algorithm,Japanese verb phrases,FALSE,MODEL-FEATURE
+TOPIC,NNP,NN,Statistical Machine Translation,SMT research community,TRUE,USAGE
+USAGE,NN,NN,existing grammar,new sublanguage,FALSE,USAGE
+RESULT,NN,NN,IntEx system,performance,FALSE,RESULT
+MODEL-FEATURE,NNS,NN,translates,natural language,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NNS,frequency profiles,parallel concordances,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NNS,verbal interactions,task-oriented dialogs,FALSE,MODEL-FEATURE
+COMPARE,NN,NN,constraint system,statistical model,FALSE,USAGE
+USAGE,NNS,NNS,grammar formalisms,fine-grained grammatical categories,TRUE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NN,verb forms,information,TRUE,PART_WHOLE
+COMPARE,NNS,NN,ungrammatical structures,grammatically correct input,FALSE,PART_WHOLE
+USAGE,NN,NNP,problem,DRT,TRUE,USAGE
+PART_WHOLE,NNS,NNS,discontinuous constituents,non-configurational languages,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,text-level anaphora,Grosz-Sidner-style focus model,TRUE,USAGE
+MODEL-FEATURE,NNS,NNS,objects,n-ary relations,TRUE,MODEL-FEATURE
+USAGE,NN,NNS,two-step clustering process,sentence co-occurrences,TRUE,USAGE
+USAGE,NN,NNS,log-linear block bigram model,real-valued features,TRUE,USAGE
+COMPARE,NNP,NNP,SL,TL,FALSE,COMPARE
+PART_WHOLE,NN,NN,computational lexicon,shared lexical information,TRUE,USAGE
+PART_WHOLE,NNS,NN,sentences,answer,TRUE,PART_WHOLE
+MODEL-FEATURE,NNS,NNS,discourse relations,clauses,FALSE,MODEL-FEATURE
+USAGE,NN,NNS,focus,speech synthesis systems,FALSE,MODEL-FEATURE
+USAGE,NN,NN,feature-based word grammar,hierarchical lexicon,TRUE,USAGE
+COMPARE,VBZ,VBZ,edges,edges,FALSE,COMPARE
+MODEL-FEATURE,NNS,NNS,specifications,answer expressions,FALSE,MODEL-FEATURE
+MODEL-FEATURE,JJ,NN,English-Japanese,word segmentation problem,TRUE,RESULT
+MODEL-FEATURE,NN,NNP,conceptual system,NL,FALSE,PART_WHOLE
+PART_WHOLE,NNS,NNS,personal computers,graphics displays,TRUE,MODEL-FEATURE
+USAGE,NN,NN,bottom-up pattern-matching parser,restricted natural language,FALSE,USAGE
+USAGE,NN,NNS,morphological component,derived words,FALSE,PART_WHOLE
+USAGE,NN,NN,HPSG natural language system,database query application,FALSE,USAGE
+MODEL-FEATURE,NNP,NNS,Word Sketch Engine,statistical parameters,TRUE,USAGE
+USAGE,NNP,NN,Cooperative Model,natural language understanding,FALSE,USAGE
+USAGE,NN,NN,Task-based evaluation,Arabic information retrieval,TRUE,USAGE
+COMPARE,NNS,NNS,phrase-based models,word-based models,FALSE,MODEL-FEATURE
+RESULT,NN,NN,word sense disambiguation,translation quality,FALSE,USAGE
+RESULT,NNS,NN,training and testing factors,predictive performance,FALSE,PART_WHOLE
+MODEL-FEATURE,NNS,NNS,Boolean conditions,categories,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NN,temporal adverbials,sentence,FALSE,MODEL-FEATURE
+USAGE,NNS,NN,assignments,discriminative training criterion,TRUE,PART_WHOLE
+MODEL-FEATURE,NNS,NN,sentence plans,text-plan input,FALSE,PART_WHOLE
+USAGE,NN,NNS,computer text generation system,lexical substitutions,TRUE,MODEL-FEATURE
+PART_WHOLE,NN,NNP,German corpus,SRHs,TRUE,USAGE
+PART_WHOLE,NN,NNS,spoken language understanding system,intelligent mobile agents,TRUE,USAGE
+COMPARE,NN,NNS,system,systems,FALSE,USAGE
+MODEL-FEATURE,VBP,NNS,joint model,argument frames,FALSE,COMPARE
+USAGE,NN,NN,dictionary,linguistic theory,TRUE,USAGE
+MODEL-FEATURE,NNS,NNS,discontinuous constituents,definite clause grammars,TRUE,MODEL-FEATURE
+USAGE,NN,NNS,baseline system,IBM models,TRUE,USAGE
+USAGE,NNS,NNS,hidden Markov model (HMM) and maximum entropy (Maxent) classifiers,knowledge sources,TRUE,MODEL-FEATURE
+MODEL-FEATURE,NN,NNS,word,sense priors,TRUE,USAGE
+USAGE,NNS,NN,n-gram statistics,language modeling,FALSE,PART_WHOLE
+PART_WHOLE,NN,NNS,proposition,fuzzy quantifiers,TRUE,USAGE
+RESULT,NN,NN,accuracy,term aggregation system,TRUE,RESULT
+USAGE,NN,NNS,translation,traditional MT architectural designs,TRUE,USAGE
+MODEL-FEATURE,NN,NN,saturation,structure,FALSE,USAGE
+PART_WHOLE,NN,NN,pipelined NLG architecture,revision component,TRUE,USAGE
+MODEL-FEATURE,NNS,NN,identification of non-local depenencies,Penn Treebank data,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,NNS,relative frequency of occurrence,subcategorization classes,FALSE,MODEL-FEATURE
+USAGE,NN,NNS,dictionary,linguistic resources,TRUE,USAGE
+USAGE,NN,NNS,IE paradigm,predicate-argument structures,TRUE,USAGE
+PART_WHOLE,NNS,NN,metaphors,human understanding of natural language,FALSE,PART_WHOLE
+PART_WHOLE,NN,NNP,IE module,"""FACILE"," a EU project for multilingual text classification and IE""",FALSE,TOPIC
+MODEL-FEATURE,NN,NN,formal definition,parsing,FALSE,USAGE
+MODEL-FEATURE,NN,NN,manually segmented corpus,language,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,pronouns,NP- and non-NP-antecedents,TRUE,MODEL-FEATURE
+PART_WHOLE,NN,NNS,paraphrase,seed sentences,FALSE,MODEL-FEATURE
+PART_WHOLE,NN,NN,PoS-tag feature function,word-lemma model,FALSE,USAGE
+MODEL-FEATURE,NN,NN,threading algorithm,0(n) time,FALSE,USAGE
+USAGE,NN,NN,semantically annotated corpus,acquisition of word-semantic information,FALSE,USAGE
+USAGE,NN,VBG,reference model,averaging,TRUE,RESULT
+USAGE,NN,NN,linguistic information,ambiguity,FALSE,MODEL-FEATURE
+USAGE,NN,NNS,anaphoric component,linguistic phenomena,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NN,patterns,machine translation output,FALSE,PART_WHOLE
+USAGE,NNS,VBG,candidates,understanding,FALSE,USAGE
+COMPARE,NN,NNS,A deterministic parser,traditional deterministic parsers,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,VBZ,verbs,frames,TRUE,MODEL-FEATURE
+PART_WHOLE,NN,NNS,test corpus,word tokens,TRUE,USAGE
+MODEL-FEATURE,NNS,NNS,lexical conceptual structure (LCS) representations,verbs,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NN,natural sublanguages,stereotyped text structure,TRUE,PART_WHOLE
+MODEL-FEATURE,JJ,JJ,classifier,noun,FALSE,MODEL-FEATURE
+USAGE,NNS,NNP,expectations,surface English,TRUE,PART_WHOLE
+PART_WHOLE,JJ,NN,generalized metaphor,recognition network,TRUE,RESULT
+MODEL-FEATURE,NN,NN,formalization,attentional structure in discourse,FALSE,MODEL-FEATURE
+RESULT,NN,NNS,free indexation,referential properties of noun phrases,FALSE,MODEL-FEATURE
+USAGE,NNS,NN,Translations,beam-search decoder,TRUE,PART_WHOLE
+PART_WHOLE,NN,NN,JAVELIN system,planning-based architecture,TRUE,USAGE
+USAGE,NN,NNS,terminology structuring,lexical methods,TRUE,USAGE
+USAGE,NNS,NNS,statistical techniques,translations,FALSE,MODEL-FEATURE
+USAGE,NNS,NNP,ambiguity packing and stochastic disambiguation techniques,Lexical-Functional Grammars,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,NNS,semantic criterion,distributional word feature vectors,FALSE,MODEL-FEATURE
+USAGE,NN,NN,machine translation,formalism,TRUE,USAGE
+MODEL-FEATURE,NN,NNS,co-occurrence distribution,terms,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NN,parallel data,"""Chinese", Arabic," and English non-parallel newspaper corpora""",FALSE,COMPARE
+MODEL-FEATURE,NN,NNP,information,English,TRUE,PART_WHOLE
+USAGE,NNS,NNS,automatic evaluations,high-quality data,TRUE,MODEL-FEATURE
+PART_WHOLE,NNS,NN,translations,"""small"," domain-specific corpus""",FALSE,COMPARE
+USAGE,NNS,NN,extracting subcategorization frames,written texts,FALSE,PART_WHOLE
+USAGE,NN,VBG,bootstrapping approach,Named Entity (NE) tagging,FALSE,RESULT
+RESULT,NNS,NNS,unsupervised methods,accuracies,FALSE,MODEL-FEATURE
+USAGE,NN,NNS,decision list,parsing-based NE rules,TRUE,USAGE
+USAGE,NN,NN,natural language understanding,machine translation,FALSE,USAGE
+PART_WHOLE,NNS,NN,unknown words,dictionary,FALSE,USAGE
+PART_WHOLE,NNP,NN,Prolog,subset of logic,TRUE,USAGE
+USAGE,NN,NNS,categorization task,positive feature vectors,TRUE,USAGE
+PART_WHOLE,NNS,NN,sentences,corpus,FALSE,PART_WHOLE
+COMPARE,NN,NN,machine translation (MT) evaluation,sentence-level semantic equivalence classification,FALSE,USAGE
+MODEL-FEATURE,NN,NNP,lexico-syntactic knowledge,SCFs,FALSE,PART_WHOLE
+USAGE,VBZ,NN,InfoMagnets,exploratory corpus analysis,FALSE,COMPARE
+USAGE,NN,NNS,topical blog post retrieval,textual credibility indicators,TRUE,USAGE
+RESULT,NN,NN,performance,formal analysis,TRUE,RESULT
+MODEL-FEATURE,NN,NN,word pairs,semantic distance,TRUE,USAGE
+MODEL-FEATURE,NN,NN,semantic role labeling,Proposition Bank data,FALSE,USAGE
+COMPARE,NN,NN,text,text-to-speech form,FALSE,PART_WHOLE
+MODEL-FEATURE,NNS,NNP,statistical models,WH-questions,FALSE,PART_WHOLE
+RESULT,NN,NN,n-best speech/language integration architecture,accuracy,FALSE,RESULT
+MODEL-FEATURE,NNS,NNS,weights,query terms,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NNS,surface realizations,morphological constructions,FALSE,MODEL-FEATURE
+COMPARE,NNS,NNS,lexically-induced relations,MeSH relations,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNP,NNS,LMs,confidence measures,TRUE,USAGE
+TOPIC,NN,NNS,Intra-sentential quality,rule-based heuristics,TRUE,USAGE
+USAGE,NN,JJ,standalone system,unannotated text,FALSE,MODEL-FEATURE
+USAGE,NNS,NN,query terms,retrieval,FALSE,PART_WHOLE
+COMPARE,NNP,NNP,ASR,IR,FALSE,COMPARE
+RESULT,NN,NNS,feature weighting and selection function,feature vectors,FALSE,MODEL-FEATURE
+USAGE,NN,NN,Korean phonological knowledge base system,unification-based grammar formalism,TRUE,USAGE
+USAGE,NN,NN,text generation,linguistic theory,TRUE,USAGE
+COMPARE,NN,NN,logical model,denotational semantics,FALSE,USAGE
+USAGE,NN,NNP,segmentation,MT,FALSE,USAGE
+COMPARE,NN,NN,parser,known deterministic parser,FALSE,USAGE
+USAGE,NN,NNS,Acoustic modeling,cepstrum-based features,TRUE,USAGE
+USAGE,NN,NN,Sentence boundary detection,speech recognition,FALSE,USAGE
+PART_WHOLE,NN,NNS,lexical database,semantic relations,TRUE,USAGE
+MODEL-FEATURE,NNP,NN,LM,confidence,TRUE,USAGE
+COMPARE,NNS,NN,conversation transcripts,neat texts,FALSE,PART_WHOLE
+USAGE,NN,JJ,corpus-based supervised word sense disambiguation (WSD) system,Dutch,FALSE,PART_WHOLE
+USAGE,VBG,NN,supervised learning,summarization,FALSE,USAGE
+USAGE,NN,NN,unsupervised learning approach,non-English (Arabic) stemmer,FALSE,USAGE
+PART_WHOLE,NN,NNS,syntax,natural languages,FALSE,MODEL-FEATURE
+USAGE,NN,NN,parsing,incremental description refinement,TRUE,USAGE
+COMPARE,NNS,NN,generalizable semantic principles,domain-specific semantic information,FALSE,PART_WHOLE
+USAGE,NN,NNS,bilingual dictionary coverage,features,FALSE,USAGE
+MODEL-FEATURE,NN,NN,language,affix removal,TRUE,USAGE
+MODEL-FEATURE,NNS,NNP,"""abstract flat syntactic representations"," LFG f-structures""","""underspecified semantic representations"," here Underspecified Discourse Representation Structures""",TRUE,TOPIC
+MODEL-FEATURE,NNS,NN,senses,word,FALSE,PART_WHOLE
+MODEL-FEATURE,NNS,NNS,translation images,f-structures,FALSE,MODEL-FEATURE
+USAGE,NNS,NNS,components,names,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,meaning,text,FALSE,MODEL-FEATURE
+USAGE,NN,NNS,parsing algorithm,parsing strategies,TRUE,USAGE
+USAGE,NN,VBP,solution,temporal anaphora phenomena,FALSE,RESULT
+USAGE,NNS,NN,constituent structure trees,semantic composition,FALSE,PART_WHOLE
+USAGE,NN,NNP,full parsing,Information Extraction,FALSE,PART_WHOLE
+USAGE,NN,NNP,RCL parser,superset of L,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,NN,context,word,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NNS,statistical model,Japanese unknown words,FALSE,MODEL-FEATURE
+PART_WHOLE,NN,NNS,polarity-tagged corpus,HTML documents,FALSE,MODEL-FEATURE
+USAGE,NN,NN,adaptive learning procedure,syntactic ambiguity resolution,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,temporal relations,segments,FALSE,MODEL-FEATURE
+PART_WHOLE,NN,NN,temporal connective,subordinate clause,FALSE,USAGE
+USAGE,NNS,NN,move-tagged abstracts,digital learning,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,NN,EM algorithm,optimum iteration number,TRUE,USAGE
+PART_WHOLE,NNS,NN,language independent modules,LSP-MLP system,FALSE,PART_WHOLE
+USAGE,NN,NN,finite-state approximation,speech recognition,FALSE,USAGE
+PART_WHOLE,NNS,NNP,noun WSD problems,Japanese Dictionary Task in SENSEVAL2,FALSE,PART_WHOLE
+RESULT,NN,NN,semantic information,performance,FALSE,RESULT
+USAGE,NN,NNS,addressee identification,four-participants face-to-face meetings,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NNS,linguistic concepts,training examples,FALSE,MODEL-FEATURE
+USAGE,NNS,NNS,ranking rules,training data,TRUE,MODEL-FEATURE
+USAGE,NNS,NN,Japanese sentence analyses,argumentation system,TRUE,PART_WHOLE
+COMPARE,NN,NN,out-of-domain corpus,in-domain corpus,FALSE,USAGE
+PART_WHOLE,NNS,NNS,patterns,translation data,FALSE,MODEL-FEATURE
+USAGE,NN,NNS,left corner parsing algorithm,context-free grammars,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NNS,confidence,extracted fields,FALSE,MODEL-FEATURE
+USAGE,NN,NN,annotation scheme,resource,FALSE,USAGE
+MODEL-FEATURE,NN,NN,attentional focus,direction-giving task,FALSE,USAGE
+USAGE,NN,NN,probabilistic model,alignment,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,word senses,senses,TRUE,MODEL-FEATURE
+PART_WHOLE,NNS,NN,definition sentences,dictionary,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,robustness problems,natural language processing systems,FALSE,MODEL-FEATURE
+USAGE,NN,NN,feature structure-directed generation,dialogue translation system,FALSE,USAGE
+USAGE,NN,NN,automatic extraction,printed text,FALSE,USAGE
+MODEL-FEATURE,NN,NNS,semantics,feature structures,FALSE,MODEL-FEATURE
+USAGE,NNS,NN,Node-based inference rules,predicate calculus notation,TRUE,PART_WHOLE
+USAGE,NNP,IN,parser MDCC,augmented Friedman - Warren algorithm,TRUE,TOPIC
+PART_WHOLE,NNS,NN,rules,deterministic grammar,FALSE,USAGE
+MODEL-FEATURE,NN,NNS,discursive usage,Chinese punctuation marks,FALSE,MODEL-FEATURE
+PART_WHOLE,NN,NN,derived string,corpus,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,NN,similarity,sentence,FALSE,MODEL-FEATURE
+PART_WHOLE,NN,NN,anaphoric component,Mimo formalism,FALSE,USAGE
+COMPARE,NNS,NN,context free languages,CCR formalism,FALSE,PART_WHOLE
+USAGE,NNP,VBG,CriterionSM Online Essay Evaluation Service,writing,FALSE,RESULT
+MODEL-FEATURE,NNS,NN,loss functions,translation performance,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NN,Topic Detection and Tracking tasks,new event detection,FALSE,PART_WHOLE
+USAGE,NN,NN,dynamic combiner,reference,TRUE,USAGE
+MODEL-FEATURE,NN,NN,derivational history,reduced IL formulae,FALSE,USAGE
+PART_WHOLE,NNS,NN,relations,Japanese language dictionary,FALSE,PART_WHOLE
+RESULT,NN,NN,accuracy,term aggregation system,TRUE,RESULT
+MODEL-FEATURE,NNS,NN,paraphrases,compression ratio,TRUE,MODEL-FEATURE
+PART_WHOLE,NN,NN,sense,discourse,FALSE,MODEL-FEATURE
+USAGE,NNS,NNS,combination methods,predominant senses,TRUE,MODEL-FEATURE
+MODEL-FEATURE,NN,NNS,quality,utterances,FALSE,MODEL-FEATURE
+COMPARE,NN,NN,translation relation,textual representation,FALSE,USAGE
+MODEL-FEATURE,NNS,NN,features,tree,FALSE,MODEL-FEATURE
+USAGE,NN,NN,unsupervised learning method,associative relationship,FALSE,USAGE
+PART_WHOLE,NNS,NN,paraphrases,bilingual parallel corpus,FALSE,MODEL-FEATURE
+COMPARE,NN,NN,weight,word error rate,FALSE,USAGE
+USAGE,NNS,NNS,answering agents,knowledge-based mechanisms,TRUE,MODEL-FEATURE
+RESULT,NN,NN,model,character and word error rate,FALSE,RESULT
+USAGE,NN,NN,explanation system,domain knowledge,TRUE,USAGE
+MODEL-FEATURE,NN,NN,source dependency parse,sentence,FALSE,MODEL-FEATURE
+USAGE,NN,NN,Boolean matrix multiplication,CFG parsing,FALSE,USAGE
+USAGE,NNS,NN,method to automatically acquire paraphrases,bilingual corpora,TRUE,PART_WHOLE
+USAGE,VBG,NN,multimodal parsing and understanding,weighted finite-state device,TRUE,RESULT
+USAGE,VBG,NNS,scoring,speech recognition hypotheses,FALSE,USAGE
+PART_WHOLE,NNS,NNP,abstracts,Web,FALSE,PART_WHOLE
+USAGE,NNS,NNS,knowledge sources,feature functions,FALSE,MODEL-FEATURE
+USAGE,NN,NN,MT system,parallel corpus,TRUE,USAGE
+PART_WHOLE,NNS,NN,hierarchical relations,thesaurus construction,FALSE,PART_WHOLE
+USAGE,NN,NN,CoNLL 2008 shared task,generative history-based latent variable model,TRUE,USAGE
+MODEL-FEATURE,NNS,NN,unknown words,context,TRUE,MODEL-FEATURE
+MODEL-FEATURE,VB,NN,Turkish,agglutinative language,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NNS,languages,grammatical frameworks,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NNS,surface representation,domain entities,FALSE,MODEL-FEATURE
+COMPARE,NNS,NNS,rankings,official rankings,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NNS,sentences,chunks of words,TRUE,PART_WHOLE
+USAGE,NN,NNS,Automatic Speech Recognition technology,dialog systems,FALSE,MODEL-FEATURE
+USAGE,NNS,NNS,semantic constraints,anaphora references,FALSE,MODEL-FEATURE
+COMPARE,NNS,NNS,trainable components,hand-crafted template-based or rule-based approaches,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NNP,word forms,Czech,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,NNS,intentional structure,discourse-relevant purposes,FALSE,MODEL-FEATURE
+USAGE,NN,NN,educational tool,protocol analysis,FALSE,USAGE
+USAGE,NN,NN,natural language processing,speech understanding,FALSE,USAGE
+MODEL-FEATURE,NN,NNS,lexical coverage,MT systems,FALSE,MODEL-FEATURE
+PART_WHOLE,VBZ,NNS,sentences,words,TRUE,MODEL-FEATURE
+MODEL-FEATURE,NN,NNS,translation,words,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NNS,interpretation,conceptual operations,FALSE,MODEL-FEATURE
+USAGE,JJ,JJ,vocabulary,target vocabulary,FALSE,PART_WHOLE
+MODEL-FEATURE,NNS,NN,temporal expressions,genre,TRUE,PART_WHOLE
+USAGE,NN,NNS,mutual information,error-correction rules,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NNS,hierarchical (or other types of) relations,terms,FALSE,MODEL-FEATURE
+USAGE,VBG,NNP,parsing,PCFG-LA,TRUE,USAGE
+USAGE,NN,NNS,boosting approach,ranking problems,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NN,Spelling-checkers,text processing software,FALSE,PART_WHOLE
+RESULT,NN,NN,tagger,accuracy,FALSE,RESULT
+USAGE,NN,NNS,phrase-based statistical machine translation method,non-contiguous phrases,TRUE,USAGE
+PART_WHOLE,NNS,NN,specific heuristics,multi-strategy framework,FALSE,PART_WHOLE
+MODEL-FEATURE,NNS,NN,defeat rules,defeasibility,FALSE,PART_WHOLE
+USAGE,NNS,JJ,block selection criteria,unigram,TRUE,PART_WHOLE
+PART_WHOLE,NNS,NN,projection of structures,lexicon,FALSE,PART_WHOLE
+USAGE,NNS,NN,parsing strategies,types of knowledge,TRUE,USAGE
+PART_WHOLE,NN,NNP,restricted subset,English,FALSE,PART_WHOLE
+USAGE,NN,NN,KL-ONE style representation,parsing,FALSE,USAGE
+MODEL-FEATURE,NN,NN,robustness,linguistic processing,FALSE,USAGE
+USAGE,NNS,NNS,representations,"""English"," Arabic and Spanish lexicons""",FALSE,COMPARE
+USAGE,NNS,NN,reasoning with dispositions,fuzzy syllogism,TRUE,PART_WHOLE
+USAGE,NNS,NN,model parameters,vocabulary,FALSE,PART_WHOLE
+PART_WHOLE,NNS,NNS,non-terminals,category labels,TRUE,MODEL-FEATURE
+PART_WHOLE,NNS,NN,utterances,discourse,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NN,qualitative spatial constraints,text,FALSE,PART_WHOLE
+USAGE,NN,NNS,parser,bit-vector operations,TRUE,USAGE
+MODEL-FEATURE,NN,NN,probabilistic spectral mapping,training (reference) speaker,FALSE,USAGE
+MODEL-FEATURE,NNS,NN,feature structures,logical formulas,FALSE,PART_WHOLE
+USAGE,NN,NN,unlexicalized PCFG parser,manual feature selection,TRUE,USAGE
+USAGE,NN,NN,trainable sentence planner,spoken dialogue system,FALSE,USAGE
+USAGE,NNP,NNS,LR-parser,CF grammars,FALSE,COMPARE
+USAGE,NN,NNS,text model,user-directed summaries,FALSE,MODEL-FEATURE
+TOPIC,NNS,NN,definitions,analysis mechanism,TRUE,PART_WHOLE
+MODEL-FEATURE,NNS,NNP,documents,Arabic,TRUE,PART_WHOLE
+PART_WHOLE,NNP,NN,MWEs,corpus text,FALSE,USAGE
+USAGE,NN,NN,HMM-based chunk tagger,named entity (NE) recognition (NER) system,FALSE,USAGE
+MODEL-FEATURE,NN,RB,generative model,field structured text,FALSE,RESULT
+USAGE,NN,NNS,hybrid generator,statistical methods,TRUE,USAGE
+USAGE,NNS,NN,Memo-functions,parse forest,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,NN,ambiguity,semantic annotation,FALSE,MODEL-FEATURE
+COMPARE,NN,NN,sentence plan,top human-ranked sentence plan,FALSE,USAGE
+PART_WHOLE,NNS,NN,intentions,discourse,FALSE,MODEL-FEATURE
+PART_WHOLE,NN,NNS,reduplication,context-free languages,FALSE,MODEL-FEATURE
+MODEL-FEATURE,JJ,JJ,classifier,concrete noun,FALSE,PART_WHOLE
+RESULT,NN,NNP,model,F-measure,FALSE,PART_WHOLE
+PART_WHOLE,NN,NN,latent variable,model,FALSE,USAGE
+PART_WHOLE,NN,NN,event,sentence,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NNS,meanings,lexical items,FALSE,MODEL-FEATURE
+USAGE,NNS,NN,heuristic rules,knowledge engineering,TRUE,PART_WHOLE
+USAGE,NN,NNP,syntactic analyzer,Procedural Systemic Grammar,TRUE,USAGE
+PART_WHOLE,NN,NN,sentence,verb,TRUE,MODEL-FEATURE
+COMPARE,NN,RB,rank,entropy,FALSE,RESULT
+MODEL-FEATURE,NN,NNS,presuppositional nature,sentences,FALSE,MODEL-FEATURE
+USAGE,NN,NNS,polarization,elementary structures,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NNP,highly inflective languages,Czech,FALSE,PART_WHOLE
+RESULT,NN,NN,method,TRDR score,FALSE,COMPARE
+MODEL-FEATURE,NN,NN,meaning,proposition,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,event structure,text,FALSE,PART_WHOLE
+MODEL-FEATURE,NNS,NNS,features,linguistic objects,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,spoken language corpus,ATIS (Air Travel Information System) domain,TRUE,USAGE
+USAGE,NN,NN,prototype system,industry watch,FALSE,USAGE
+USAGE,NN,VBG,feature structure unification,parsing,FALSE,RESULT
+COMPARE,NNS,NN,traditional knowledge-based techniques,corpus-based approach,FALSE,PART_WHOLE
+USAGE,NNS,NNS,statistical models,structured data,FALSE,MODEL-FEATURE
+USAGE,NN,NN,extraction tool,German text corpora,FALSE,USAGE
+USAGE,NN,NN,English-Japanese machine translation,syntax directed approach,TRUE,USAGE
+PART_WHOLE,NN,NN,verb,training corpus,FALSE,PART_WHOLE
+PART_WHOLE,NN,NNS,textual corpus,derived strings,TRUE,USAGE
+COMPARE,NN,NN,resolution component,syntactic analysis,FALSE,USAGE
+PART_WHOLE,NNS,NN,syntactically motivated relations,discourse,FALSE,MODEL-FEATURE
+RESULT,NNS,NN,credibility indicators,retrieval effectiveness,FALSE,PART_WHOLE
+USAGE,NN,NN,speaker-independent (SI) training,speech,TRUE,USAGE
+USAGE,NNP,NNS,TAP-XL Automated Analyst's Assistant,"""multilingual"," multimedia data""",TRUE,COMPARE
+PART_WHOLE,NNS,NNS,sentences,verbs,TRUE,MODEL-FEATURE
+COMPARE,JJ,NN,syntax,semantic interpretation,FALSE,MODEL-FEATURE
+USAGE,NNS,NN,training techniques,decision-making,FALSE,PART_WHOLE
+PART_WHOLE,NN,NNS,discourse,utterances,TRUE,MODEL-FEATURE
+USAGE,NN,NN,unsupervised learning,morphological and syntactic information,TRUE,USAGE
+USAGE,NN,VBG,data representation,chunking,FALSE,RESULT
+USAGE,NNS,NNS,phrase boundary heuristics,function words,TRUE,MODEL-FEATURE
+MODEL-FEATURE,NNP,NN,Turkish,agglutinating free word order language,TRUE,USAGE
+USAGE,NNP,NN,WordNet,semantic distance,FALSE,PART_WHOLE
+RESULT,NN,NN,duration model,error rate,FALSE,USAGE
+USAGE,NN,NNS,thematic grid tagging,LCS representations,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NNS,verb final language,overt case markers,TRUE,USAGE
+USAGE,NN,NNP,word significance,speech-based Information Retrieval,FALSE,PART_WHOLE
+USAGE,NN,NN,system,multi-component architecture,TRUE,USAGE
+USAGE,NN,NN,Large-scale natural language generation,knowledge,TRUE,USAGE
+USAGE,NN,VBG,multi-tagging approach,ccg parsing,FALSE,RESULT
+COMPARE,NNP,NNP,HPSG,LTAG,FALSE,PART_WHOLE
+MODEL-FEATURE,NNS,NN,collection of relations and operations,task representation,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,NNS,similarity,words,FALSE,MODEL-FEATURE
+COMPARE,NNP,NNS,SMT,rule-based translation systems,FALSE,COMPARE
+PART_WHOLE,NNS,NNS,reduplications,natural languages,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NNS,documents,genres,TRUE,MODEL-FEATURE
+RESULT,VBG,NNS,user modeling,systems,FALSE,USAGE
+USAGE,NN,NN,machine transliteration/backtransliteration,direct orthographical mapping,FALSE,USAGE
+USAGE,NN,NNS,lemma-based model,Dutch Senseval-2 test data,FALSE,MODEL-FEATURE
+USAGE,NN,NN,DoPS system,target document,FALSE,USAGE
+TOPIC,NN,NNP,speech and text image processing,Xerox PARC,TRUE,USAGE
+MODEL-FEATURE,NN,NN,temporary belief,world,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NNS,path values,disjunctions,FALSE,MODEL-FEATURE
+PART_WHOLE,NN,NN,embodied conversational agent,dialogue system,FALSE,USAGE
+USAGE,NN,NNS,event map,documents,TRUE,USAGE
+USAGE,NN,NN,error correction,ill-formed input,FALSE,USAGE
+USAGE,NNS,NNS,on-line encyclopedias and dictionaries,positive and negative definition examples,FALSE,MODEL-FEATURE
+USAGE,NN,NN,two-phase shift-reduce dependency parser,SVM learning,TRUE,USAGE
+PART_WHOLE,NN,NNS,graph,translation hypotheses,TRUE,USAGE
+USAGE,NN,NNS,sublanguage,unknown words,FALSE,PART_WHOLE
+PART_WHOLE,NNS,NN,cooccurrence patterns,corpus,FALSE,PART_WHOLE
+USAGE,NNS,NNS,rules,segmented strings,FALSE,USAGE
+PART_WHOLE,NNS,NNS,rules,deterministic parsers,FALSE,USAGE
+USAGE,VBG,NN,decoding,dynamic programming,TRUE,USAGE
+PART_WHOLE,NNS,NN,data,test corpora,FALSE,PART_WHOLE
+MODEL-FEATURE,NNS,NN,genre-specific regularities,discourse structure,FALSE,PART_WHOLE
+USAGE,NNS,NNS,bag-of-words and segment order-sensitive string comparison methods,character- and word-segmented data,FALSE,MODEL-FEATURE
+COMPARE,NN,NNP,HBG model,P-CFG,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,NN,connectivity,dependency tree,FALSE,USAGE
+USAGE,NN,NN,tool,linguistic annotation,FALSE,USAGE
+MODEL-FEATURE,NN,NNS,meaning,units,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NNS,constructions,conjuncts,TRUE,PART_WHOLE
+MODEL-FEATURE,NNP,NN,SSTC,sentence,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NNP,discourse relations,Czech,FALSE,PART_WHOLE
+USAGE,NN,NNS,transformation model,answer/question terms,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,computational complexity,unification,FALSE,USAGE
+MODEL-FEATURE,JJ,JJ,classifier,noun,FALSE,MODEL-FEATURE
+PART_WHOLE,NNP,NNS,Presentor,declarative languages,TRUE,USAGE
+USAGE,NNS,NN,shift-reduce dependency parsers,Chine language,FALSE,PART_WHOLE
+PART_WHOLE,NN,NNS,semantically unmarked term,antonymous adjectives,FALSE,MODEL-FEATURE
+COMPARE,NN,NNS,model,MT systems,FALSE,MODEL-FEATURE
+USAGE,NN,NN,graphical model,machine translation task,FALSE,USAGE
+RESULT,NN,NN,accuracy,topic information,TRUE,RESULT
+USAGE,NN,NNS,linguistic representation,language processing systems,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NNS,similarity,word vectors,TRUE,MODEL-FEATURE
+USAGE,NN,NN,output,phone-string classifier,TRUE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,grammaticality,system output,FALSE,USAGE
+USAGE,NN,NN,text,corpus,FALSE,PART_WHOLE
+PART_WHOLE,NN,NNP,pronominal anaphora resolution module,Lucy,FALSE,PART_WHOLE
+COMPARE,NNS,NN,automatic evaluation measures,human judgment,FALSE,PART_WHOLE
+MODEL-FEATURE,NNS,NNP,regular languages,formal intersections of FSAs,TRUE,PART_WHOLE
+PART_WHOLE,NNS,NNS,grammars,regular expressions,TRUE,USAGE
+MODEL-FEATURE,NN,NNP,computational complexity,SMT,FALSE,PART_WHOLE
+PART_WHOLE,NN,NNS,email communication,utterances,FALSE,MODEL-FEATURE
+COMPARE,NNS,NNS,SMT models,WSD models,FALSE,MODEL-FEATURE
+RESULT,NN,NN,pos tag ambiguity,ccg supertagging,FALSE,USAGE
+USAGE,NNS,NNS,clustering and filtering processes,electronic newsgroup discussions,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NNP,recordings,Southern Min Chinese,TRUE,PART_WHOLE
+PART_WHOLE,NNS,NNP,definitions,Longman Dictionary of Contemporary English,FALSE,PART_WHOLE
+MODEL-FEATURE,NNS,NNS,syntactic descriptions,restrictive statements,TRUE,MODEL-FEATURE
+USAGE,NN,NN,punctuation,discourse processing,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,NNS,distance,concepts,FALSE,MODEL-FEATURE
+USAGE,NNS,NNS,referring expressions,objects,FALSE,MODEL-FEATURE
+USAGE,NN,NNS,spelling correction,agglutinative languages,FALSE,USAGE
+USAGE,NN,NN,visualization method,MT system,FALSE,PART_WHOLE
+PART_WHOLE,NNS,NNS,databases,proper names,TRUE,MODEL-FEATURE
+USAGE,NNP,NN,CSR,mobile military command and control,FALSE,USAGE
+MODEL-FEATURE,NN,NN,discourse level,annotation,FALSE,USAGE
+USAGE,NN,NN,robust explanation system,large-scale knowledge base,TRUE,USAGE
+COMPARE,NNP,NNP,GPSG,LT,FALSE,COMPARE
+PART_WHOLE,NNS,NN,phrase translations,suffix array-based data structure,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,NN,likelihood,variable,FALSE,USAGE
+USAGE,NN,NNS,treebank,theoretical linguistic investigations,FALSE,COMPARE
+COMPARE,NN,NN,base parser,Collins (2000) reranker,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,subtrees,phrases,FALSE,PART_WHOLE
+PART_WHOLE,NNS,NN,phrases,word-aligned corpora,FALSE,PART_WHOLE
+USAGE,NNS,NN,backwards transliterations,machine,TRUE,PART_WHOLE
+COMPARE,NN,NN,characters-based Chinese collocation system,word-based system,FALSE,USAGE
+MODEL-FEATURE,NNS,NN,features, Markov model,TRUE,MODEL-FEATURE
+USAGE,NN,NN,sentence retrieval problem,"""stochastic"," graph-based method""",TRUE,RESULT
+COMPARE,NN,NN,textual domain,open-domain question answering,FALSE,USAGE
+MODEL-FEATURE,NN,NNS,internal and contextual information,domain specific terms,FALSE,MODEL-FEATURE
+USAGE,NN,NN,unsupervised training,phone n-gram model,FALSE,USAGE
+RESULT,NN,NN,technique,paraphrase classification accuracy,FALSE,USAGE
+TOPIC,NN,NNS,entailment acquisition,"""asymmetric", or directional," relations""",FALSE,COMPARE
+COMPARE,NN,NN,transfer phase,interlingual approach,FALSE,USAGE
+USAGE,NN,NNP,sense resolution,WordNet,TRUE,PART_WHOLE
+PART_WHOLE,NNS,NNS,Metagrammatical formalisms,context-free phrase structure rules,TRUE,MODEL-FEATURE
+MODEL-FEATURE,JJ,NNS,labeled directed graph,linguistic structures,FALSE,COMPARE
+USAGE,NNS,NN,Path-based inference rules,binary relational calculus notation,TRUE,PART_WHOLE
+PART_WHOLE,NNS,NN,terms,corpora,FALSE,PART_WHOLE
+COMPARE,NN,NNS,spectral clustering based approach,clustering methods,FALSE,MODEL-FEATURE
+USAGE,NN,NN,laboratory study,Wizard of Oz technique,TRUE,USAGE
+USAGE,NNS,NN,statistical learning mechanisms,cognitive psychology,FALSE,PART_WHOLE
+USAGE,NNS,NN,grammar coverage problems,fully-connected first-order statistical class grammar,TRUE,PART_WHOLE
+MODEL-FEATURE,NN,NNS,domain dependence,WSD programs,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,JJ,quantifying noun groups,German,FALSE,USAGE
+USAGE,NN,NNS,explanation generation,"""semantically rich"," large-scale knowledge bases""",TRUE,COMPARE
+COMPARE,NN,NN,morphology,word order,FALSE,USAGE
+USAGE,JJ,NN,subcategorization dictionary,textual corpora,TRUE,RESULT
+RESULT,NNS,NN,training speakers,word error rate,FALSE,PART_WHOLE
+USAGE,NN,NN,natural language processing,spoken language understanding,FALSE,USAGE
+PART_WHOLE,NNS,NN,sentential paraphrases,paraphrase class,FALSE,PART_WHOLE
+PART_WHOLE,NNS,JJ,sentences,abstract,FALSE,PART_WHOLE
+USAGE,NN,NN,lexicalized grammar,domain,FALSE,USAGE
+COMPARE,NN,NNS,trainable sentence planner,rule-based systems,FALSE,MODEL-FEATURE
+COMPARE,NNS,NNS,rules,Horn clauses,FALSE,USAGE
+COMPARE,NN,NN,transfer phase,analysis,FALSE,USAGE
+PART_WHOLE,NN,NNS,corpus,sentences,TRUE,MODEL-FEATURE
+MODEL-FEATURE,NN,NNS,number,nouns,FALSE,MODEL-FEATURE
+USAGE,NN,NNS,oral communication,indices,FALSE,MODEL-FEATURE
+COMPARE,NNS,NNS,useful terms,query terms,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNP,NN,LFG,completeness,TRUE,USAGE
+RESULT,NN,NNS,predictive performance,models,TRUE,USAGE
+PART_WHOLE,NN,NNS,automatically acquired parallel corpus,English-French document pairs,TRUE,USAGE
+USAGE,NN,NNS,semantic information,syntactic cues,TRUE,USAGE
+USAGE,NN,NN,domain independent model,automated interpretation,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,heuristic principles,probabilistic Horn clauses,TRUE,MODEL-FEATURE
+USAGE,NN,NNS,black-box methodology,question-answering NL systems,FALSE,MODEL-FEATURE
+USAGE,NN,NN,segment-based approach,phonetic recognition,FALSE,USAGE
+USAGE,NNS,NN,training data,language modeling,FALSE,PART_WHOLE
+USAGE,NN,NN,Combinatory Categorial Grammar (CCG) lexicon,Turkish dependency treebank,TRUE,USAGE
+RESULT,NN,NNP,precision rate,ILIMP,TRUE,USAGE
+USAGE,NN,NN,part-of-speech tagging,statistical and constraint-based disambiguation,TRUE,USAGE
+COMPARE,NN,NN,measure,human judgment,FALSE,USAGE
+MODEL-FEATURE,NNS,NN,domain independent features,input dataset,FALSE,PART_WHOLE
+MODEL-FEATURE,NNS,NN,domain-independent capabilities,Paramax spoken language understanding system,FALSE,PART_WHOLE
+USAGE,NN,NN,computational model,discourse task,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,VBG,computational theory,human plausible reasoning,FALSE,RESULT
+USAGE,NN,NNS,recognizer,bigram back-off language models,TRUE,USAGE
+USAGE,NNS,NNS,evaluation metrics,Machine Translation (MT) systems,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,parse record,utterance,FALSE,MODEL-FEATURE
+USAGE,NN,NN,unsupervised learning,syntactic information,TRUE,USAGE
+PART_WHOLE,NN,NNP,English-Chinese bitexts,Web,FALSE,PART_WHOLE
+USAGE,NN,NNP,parsing method,GPSG,FALSE,PART_WHOLE
+USAGE,NN,NN,text mining method,distributional hypothesis,TRUE,USAGE
+MODEL-FEATURE,NNS,NNS,computational problems,probabilistic translation models,FALSE,MODEL-FEATURE
+PART_WHOLE,NN,NNS,Japanese script,ideograms,TRUE,USAGE
+COMPARE,NN,NN,ranking algorithm,lattice-based approach,FALSE,USAGE
+USAGE,NNP,NN,Hidden Markov Model,corpus,FALSE,PART_WHOLE
+PART_WHOLE,NN,NN,flexible parser,grammar,TRUE,RESULT
+MODEL-FEATURE,NN,NN,entity-based representation,discourse,FALSE,MODEL-FEATURE
+COMPARE,NNP,NN,CMU,SRI toolkit,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,features,electronic discussions,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NNS,blocks,source interval projections,FALSE,MODEL-FEATURE
+MODEL-FEATURE,VBZ,JJ,edges,semantic,TRUE,TOPIC
+MODEL-FEATURE,NNS,NN,CFG parsers,time,TRUE,PART_WHOLE
+USAGE,NNP,NNP,Unification Categorial Grammar,Machine Translation,FALSE,COMPARE
+USAGE,NN,NNS,generalized translation knowledge,paraphrases,TRUE,MODEL-FEATURE
+USAGE,VBG,NNS,multi-strategy and multi-source approach to question answering,answering agents,TRUE,USAGE
+USAGE,VBG,NN,pragmatics processing,abductive inference,TRUE,RESULT
+USAGE,NNS,NN,natural language processing (NLP) systems,text understanding,FALSE,PART_WHOLE
+USAGE,NN,NNS,Expectation-Maximization (EM) algorithm,text classification problems,FALSE,MODEL-FEATURE
+USAGE,NN,NNS,syntactic information,derivations,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,VBP,meta-inference types,inference,FALSE,COMPARE
+RESULT,NN,NN,approximation error,language model,TRUE,USAGE
+USAGE,NN,NN,unification-based grammar,multidimensional chart parser,FALSE,USAGE
+PART_WHOLE,NN,NN,NLP system,linguistic PoS tagger and chunker,TRUE,USAGE
+MODEL-FEATURE,NNS,NNS,words,similar context features,TRUE,PART_WHOLE
+COMPARE,NN,NN,task-specific domain knowledge,general linguistic knowledge,FALSE,USAGE
+MODEL-FEATURE,NNS,NN,topics,texts,FALSE,MODEL-FEATURE
+USAGE,NN,NNS,Chinese word sense disambiguation model,translation candidates,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NNS,corpora,languages,TRUE,USAGE
+RESULT,NNS,NNS,MT evaluation techniques,features,FALSE,USAGE
+USAGE,NN,NN,chart-based phrase structure parsing,natural language,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NN,multiple and nested interactions,sentence,FALSE,MODEL-FEATURE
+USAGE,NNS,NN,automated evaluation techniques,output,FALSE,PART_WHOLE
+USAGE,NN,NN,decoding strategy,Minimum Bayes-Risk framework,TRUE,USAGE
+TOPIC,NN,NNS,DARPA Spoken Language Systems (SLS) program,SLS systems,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NNS,relations,representations,FALSE,PART_WHOLE
+USAGE,NNS,VBG,candidates,understanding,FALSE,USAGE
+USAGE,NN,NNS,Node-based inference,node structures,TRUE,USAGE
+USAGE,NNS,NNS,text applications,common text processing modules,TRUE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,grammar sensu stricto,treebank,TRUE,USAGE
+USAGE,NN,NN,translation,word sense disambiguation,TRUE,USAGE
+PART_WHOLE,NN,NNS,parallel corpus,Chinese words,TRUE,USAGE
+PART_WHOLE,NNS,NN,grammatical relations,output,FALSE,PART_WHOLE
+COMPARE,NNP,NNS,HDAG Kernel,kernel functions,FALSE,COMPARE
+USAGE,NNS,NNS,conventional statistical methods,large corpora,TRUE,MODEL-FEATURE
+USAGE,NN,NN,"""context-sensitive"," phrase structure grammar""","""best-path", bottom-up," deterministic parser""",FALSE,RESULT
+TOPIC,NN,NN,system response,natural language generation community,TRUE,USAGE
+MODEL-FEATURE,NNS,NN,inflected forms,ambiguous word,FALSE,PART_WHOLE
+USAGE,NN,NN,out-of-domain corpus,in-domain word alignment,FALSE,USAGE
+USAGE,NNS,NNS,knowledge-based and random selection procedures,language modeling tasks,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,sentence-level and text-level anaphora,dependency-based grammar model,TRUE,USAGE
+RESULT,NN,NN,system,state-of-the-art performance,FALSE,USAGE
+USAGE,NN,NNS,class-oriented framework,paraphrase examples,FALSE,MODEL-FEATURE
+USAGE,NN,NNS,generative model,features,TRUE,USAGE
+MODEL-FEATURE,NNS,NNS,data representations,noun phrase chunks,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,meaning,source language text,FALSE,MODEL-FEATURE
+RESULT,NN,NN,typicality,human cognition,FALSE,USAGE
+PART_WHOLE,NNS,NN,languages,morphology,TRUE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,expression,meaning,TRUE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,coherence assessment,ranking learning problem,TRUE,USAGE
+PART_WHOLE,NN,NNS,monolingual parallel corpora,paraphrases,TRUE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NNS,training data,emoticons,TRUE,MODEL-FEATURE
+COMPARE,NNS,NNS,text processors,audio and scanned image data,FALSE,MODEL-FEATURE
+PART_WHOLE,NN,NN,event,sentence,FALSE,MODEL-FEATURE
+TOPIC,NN,NN,proportion problem,Generalized Quantifier approach,TRUE,USAGE
+USAGE,NN,NNS,learning algorithm,structured data,TRUE,USAGE
+USAGE,NN,NNS,restricted vocabulary,word sense definitions,FALSE,MODEL-FEATURE
+USAGE,NNS,NN,sentences,summary generation,FALSE,PART_WHOLE
+RESULT,NN,NN,Arabic word segmentation system,exact match accuracy,FALSE,USAGE
+PART_WHOLE,NNS,NNS,vocabularies,words,TRUE,MODEL-FEATURE
+USAGE,NN,NNP,translation framework,Situation Theory,TRUE,USAGE
+MODEL-FEATURE,NNS,NNP,attribute sequences,HDAGs,FALSE,PART_WHOLE
+PART_WHOLE,NN,NN,information,functional structure,FALSE,MODEL-FEATURE
+RESULT,NN,NN,HMM training,accuracy,FALSE,RESULT
+USAGE,NN,NN,pronoun resolution,spoken dialogue,FALSE,USAGE
+USAGE,NN,NN,natural language generation,interaction,FALSE,USAGE
+USAGE,NN,NN,generative model,transliteration process,FALSE,USAGE
+RESULT,NNS,NN,results,statistical analysis,TRUE,PART_WHOLE
+COMPARE,NN,NN,ASR output,human transcription,FALSE,USAGE
+MODEL-FEATURE,NN,NN,consistency problem,formulas,FALSE,USAGE
+USAGE,NNP,NN,HBG,"""lexical", syntactic, semantic," and structural information""",TRUE,COMPARE
+PART_WHOLE,NN,NNP,English-Chinese bitexts,Web,FALSE,PART_WHOLE
+MODEL-FEATURE,NNS,NN,loss functions,linguistic information,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NNS,words,frequency classes,TRUE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,information redundancy,multilingual input,FALSE,USAGE
+MODEL-FEATURE,NN,NN,corpus,author,TRUE,PART_WHOLE
+USAGE,NN,NNS,algorithm,domain-specific translation lexicons,FALSE,USAGE
+USAGE,NN,NNS,parsing technique,RCL parsers,FALSE,USAGE
+USAGE,NN,NN,information extraction system,linear-chain conditional random field,TRUE,USAGE
+PART_WHOLE,NN,NN,theory,dimensionalized space,TRUE,USAGE
+TOPIC,NN,NN,psycholinguistic literature,syntactic priming,FALSE,USAGE
+MODEL-FEATURE,NN,NN,lexical unknown,hypothesis,TRUE,USAGE
+PART_WHOLE,NNS,NNS,complex sentences,simple clausal structures,TRUE,PART_WHOLE
+USAGE,NN,NN,unsupervised automatic acquisition,general and domain corpora,TRUE,USAGE
+USAGE,NN,NNS,meaning-entailing substitutability,semantic-oriented NLP applications,FALSE,USAGE
+MODEL-FEATURE,NN,NNS,lexical and syntactical variation,paraphrases,FALSE,USAGE
+PART_WHOLE,NN,NN,text,web,FALSE,USAGE
+PART_WHOLE,NN,JJ,annotation,tree-bank,FALSE,USAGE
+USAGE,NN,NNS,parser,structural and lexical dependencies,TRUE,USAGE
+MODEL-FEATURE,NNS,NN,subcategorization frames,verb,FALSE,PART_WHOLE
+PART_WHOLE,NN,NNS,parallel corpora,Korean and English language pairs,TRUE,USAGE
+PART_WHOLE,NNS,NN,answer candidates,text corpus,FALSE,PART_WHOLE
+COMPARE,NN,NN,training material,texts,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NN,words,context,TRUE,MODEL-FEATURE
+USAGE,NN,NN,manually segmented Arabic corpus,unsupervised algorithm,FALSE,USAGE
+MODEL-FEATURE,NN,NNS,antecedence recovery,lexical substitutions,FALSE,USAGE
+USAGE,NNS,NNS,reestimation formulas,HMM with Gaussian mixture observation densities,FALSE,MODEL-FEATURE
+TOPIC,NN,NN,experimental evaluation,summarization,FALSE,USAGE
+USAGE,VBZ,NN,typed feature structures,top-down derivation,FALSE,COMPARE
+USAGE,NN,NN,Czech-English statistical machine translation system,tree-to-tree translation,FALSE,USAGE
+USAGE,NNS,NN,tasks,method,TRUE,PART_WHOLE
+PART_WHOLE,NNS,NNS,alignment errors,multilingually aligned wordnets,FALSE,MODEL-FEATURE
+USAGE,NN,NN,string similarity,edit distance,TRUE,USAGE
+MODEL-FEATURE,NN,NNS,semantic equivalence,verbs,FALSE,MODEL-FEATURE
+USAGE,NN,NNP,spelling correction,Turkish,FALSE,USAGE
+USAGE,VBG,NNS,heuristic learning,word-based alignments,TRUE,USAGE
+COMPARE,NN,NNP,speech processing,Human-Machine Communication,FALSE,MODEL-FEATURE
+USAGE,NNP,NN,CSG,phrase structure grammar,FALSE,COMPARE
+USAGE,NN,NN,contextual similarity,vector space model,TRUE,USAGE
+RESULT,NN,NN,accuracy rate,syntactic disambiguation,TRUE,USAGE
+USAGE,NN,NN,Coedition,natural language text,FALSE,USAGE
+MODEL-FEATURE,NN,NN,context,sentence,FALSE,MODEL-FEATURE
+USAGE,NNS,NNS,MT evaluation methods,classifiers,FALSE,MODEL-FEATURE
+USAGE,NN,NN,pushdown automaton,stack,TRUE,USAGE
+PART_WHOLE,NNP,NNS,WordNet,semantically related words,TRUE,USAGE
+USAGE,NN,NN,word-trigram recognition,manual transcription,TRUE,USAGE
+USAGE,NN,NN,alignment adaptation approach,domain-specific (in-domain) word alignment,FALSE,USAGE
+USAGE,NNP,NN,Dynamic Hierarchical Phrasal Lexicon,language acquisition,FALSE,COMPARE
+MODEL-FEATURE,NN,JJ,generation problem,NP-complete,TRUE,USAGE
+MODEL-FEATURE,NNS,NNS,entailment relations,verbs,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NN,general-purpose NLP components,machine translation pipeline,FALSE,PART_WHOLE
+COMPARE,NNS,NN,compositional approaches,deductive approach,FALSE,PART_WHOLE
+USAGE,NNS,NN,word-sense disambiguation systems,bilingual material,TRUE,PART_WHOLE
+USAGE,NN,JJS,guide,shared derivation forest,TRUE,TOPIC
+USAGE,NN,NNS,software library,multilingual TIPSTER user interfaces,FALSE,USAGE
+USAGE,NN,NNS,probabilistic model,information extraction tasks,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,shallow linguistic features,questions,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NNS,word,senses,TRUE,MODEL-FEATURE
+USAGE,NN,VBZ,generation system,disjunctive feature structures,TRUE,RESULT
+USAGE,NN,NN,Japanese-English translation,semantics directed approach,FALSE,USAGE
+USAGE,NN,NN,automatic evaluation,machine translation,FALSE,USAGE
+PART_WHOLE,NNS,NNS,abstracts,research articles,FALSE,PART_WHOLE
+USAGE,NN,NNS,spelling correction,languages,FALSE,USAGE
+USAGE,NNS,NN,CFG rules,parsed corpus,TRUE,PART_WHOLE
+PART_WHOLE,NN,NN,transition graphs,deterministic finite automaton,FALSE,USAGE
+COMPARE,NN,NN,Praguian dependency-based approach,Penn discourse annotation,FALSE,USAGE
+USAGE,NN,NN,Korean-to-Japanese dictionary,pivot,TRUE,USAGE
+USAGE,NNS,NNS,surface forms,finite-state methods,TRUE,PART_WHOLE
+RESULT,NN,NN,resource-frugal approach,agreement,FALSE,USAGE
+USAGE,NN,NNS,polynomial time solution,hard problems,FALSE,USAGE
+MODEL-FEATURE,NN,NN,parse,sentence,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,NNS,verbs,SCFs distributions,TRUE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NNS,grammars,Source and Target languages,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,NNS,representation scheme,utterances,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NNS,significance,words,FALSE,MODEL-FEATURE
+RESULT,NN,NNP,model,macro-average F1,FALSE,RESULT
+USAGE,NNS,NN,reference sets,MT evaluation,FALSE,PART_WHOLE
+PART_WHOLE,NNS,NN,Words,Chinese text,FALSE,PART_WHOLE
+USAGE,NN,NN,model of grammatical processing,uniform processing,TRUE,USAGE
+USAGE,NNP,JJ,BLEU,word n-grams,FALSE,COMPARE
+USAGE,NN,NNS,graphic interpretation system,communicative signals,TRUE,USAGE
+PART_WHOLE,NN,NN,transliteration,corpus,FALSE,USAGE
+USAGE,NN,NN,query optimisation,relational database,FALSE,USAGE
+PART_WHOLE,NN,NN,system,decision-tree classifier,TRUE,USAGE
+MODEL-FEATURE,NN,NN,intelligibility,MT output,FALSE,USAGE
+RESULT,NN,NN,precision,grammar,TRUE,PART_WHOLE
+USAGE,NNP,NN,BLEU,character,FALSE,COMPARE
+USAGE,NNS,NN,scenario templates,text browser,FALSE,PART_WHOLE
+MODEL-FEATURE,NNS,NNS,phrases,trees,FALSE,PART_WHOLE
+USAGE,NN,NNS,language model,answers,FALSE,MODEL-FEATURE
+COMPARE,NN,NNS,statistical method,taggers,FALSE,USAGE
+PART_WHOLE,NNS,JJ,spatial descriptions,Japanese,FALSE,COMPARE
+MODEL-FEATURE,NN,NN,underspecified semantic representation,scope ambiguity,FALSE,USAGE
+PART_WHOLE,NNS,NN,wordbreaks,Chinese text corpora,FALSE,PART_WHOLE
+PART_WHOLE,NNS,NN,stems,unsegmented corpus,FALSE,PART_WHOLE
+PART_WHOLE,NN,NNS,management of uncertainty,expert systems,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,co-occurrence similarities,terms,FALSE,MODEL-FEATURE
+COMPARE,NN,NN,parsing,generation,FALSE,USAGE
+MODEL-FEATURE,NN,NNS,generative probabilistic model,parse trees,FALSE,USAGE
+USAGE,NN,NNP,translation,English,FALSE,MODEL-FEATURE
+MODEL-FEATURE,VBG,NNS,paraphrasing,sentences,FALSE,USAGE
+COMPARE,NNP,NN,Temporal Expression Anchoror,baseline,FALSE,COMPARE
+COMPARE,NNP,NNS,CRF,HMM and Max-ent models,FALSE,COMPARE
+USAGE,NN,NNP,semantic analyzer,Conceptual Dependency Theory,TRUE,USAGE
+PART_WHOLE,NNS,NNP,idiosyncrasies,Dutch,FALSE,USAGE
+USAGE,NNS,NNS,word sense disambiguation (WSD) systems,domains,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,compositionality,translation,FALSE,USAGE
+USAGE,NNS,NNS,dictionary word sense definitions,phrasal patterns,TRUE,PART_WHOLE
+RESULT,VBG,NN,phrase chunking,performance improvement,FALSE,USAGE
+USAGE,NN,NN,maximum-entropy model,stochastic output selection,TRUE,USAGE
+MODEL-FEATURE,NN,NNS,grs,frames,TRUE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,source language,EUROPARL corpus,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,morpho-syntactic and semantic characteristics,nominal constituents,FALSE,MODEL-FEATURE
+TOPIC,NN,NNS,critical discussion,evaluation of Natural Language systems,FALSE,USAGE
+MODEL-FEATURE,NNS,NN,candidate parses,sentence,FALSE,PART_WHOLE
+USAGE,NN,NN,natural language system,ungrammatical input,FALSE,USAGE
+COMPARE,NN,NN,pronominalization,superordinate substitution,FALSE,USAGE
+COMPARE,NNS,NN,general domains,linguistic domain,FALSE,PART_WHOLE
+MODEL-FEATURE,NNS,VBG,models,decision tree learning,TRUE,USAGE
+PART_WHOLE,NN,NNP,VME bus,SUN4,FALSE,MODEL-FEATURE
+USAGE,NNS,NN,predicting top-level boundaries,machine learning approach,TRUE,PART_WHOLE
+MODEL-FEATURE,NNS,NNS,logical well-formedness conditions,trees,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NN,determiners,ambiguity,TRUE,USAGE
+RESULT,NNS,NN,Combination methods,system performance,FALSE,PART_WHOLE
+PART_WHOLE,NN,NN,user knowledge modeling architecture,ICICLE system,FALSE,USAGE
+USAGE,NNS,NN,discovering parallel sentences,"""comparable"," non-parallel corpora""",FALSE,PART_WHOLE
+USAGE,NNP,NN,Mimo,translation,FALSE,COMPARE
+MODEL-FEATURE,NN,NN,statistical information,dialogue corpora,FALSE,USAGE
+USAGE,NN,NN,robust generator,knowledge,TRUE,USAGE
+RESULT,NN,NNS,memory-based learning chunker,chunking results,FALSE,USAGE
+RESULT,NN,NNS,performance,MBR decoders,FALSE,USAGE
+USAGE,NN,NNS,spoken language technology,military and civilian systems,FALSE,USAGE
+PART_WHOLE,NN,NNS,Machine transliteration/back-transliteration,multilingual speech and language applications,FALSE,USAGE
+MODEL-FEATURE,NN,NNS,dependency structure,sentences,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NN,expletive occurrences,pronoun,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NN,purposes,intentional structure,TRUE,PART_WHOLE
+MODEL-FEATURE,NNP,NN,Tree Adjoining Grammars,extended domain of locality,FALSE,COMPARE
+USAGE,NNS,VBG,candidates,understanding,FALSE,USAGE
+USAGE,NN,NNS,maximum entropy word alignment algorithm,supervised training data,TRUE,USAGE
+USAGE,NN,NN,algorithm,lower bound estimation,FALSE,USAGE
+PART_WHOLE,NN,NNS,word-sense ambiguity,machine-readable resources,FALSE,USAGE
+PART_WHOLE,NN,NNS,corpus,question/answer pairs,TRUE,PART_WHOLE
+USAGE,JJ,NNS,JAVELIN,questions,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NN,utterances,spontaneous speech,TRUE,PART_WHOLE
+MODEL-FEATURE,NN,NNS,tree,crossing liaisons,TRUE,USAGE
+COMPARE,NN,NNP,treebank,Penn WSJ,FALSE,USAGE
+PART_WHOLE,NNS,NN,word-to-word alignments,MT system,TRUE,USAGE
+USAGE,NNS,NN,"""LSA-based"," cooccurrence-based and dictionary-based methods""",similarity,FALSE,PART_WHOLE
+USAGE,NN,NNS,lexical affinity,sequential models,FALSE,USAGE
+USAGE,VBZ,NNS,Topic signatures,Natural Language Processing (NLP) applications,FALSE,COMPARE
+USAGE,NNP,NN,ILIMP,syntactic analysis system,FALSE,COMPARE
+USAGE,NN,NN,parser,natural language interface,FALSE,USAGE
+PART_WHOLE,NNS,NNS,paraphrases,automatic alignments,FALSE,MODEL-FEATURE
+MODEL-FEATURE,VBZ,NN,blog posts,relevance,TRUE,PART_WHOLE
+TOPIC,NNS,NN,cross-lingual comparisons,analysis,TRUE,PART_WHOLE
+PART_WHOLE,NNS,NNS,live closed captions,unknown words,TRUE,USAGE
+USAGE,NN,NN,parser,non-terminal symbol,TRUE,USAGE
+PART_WHOLE,NN,NN,Dictionary construction,machine translation system,FALSE,USAGE
+MODEL-FEATURE,NN,NN,ellipsis resolution,discourse copying algorithm,TRUE,USAGE
+USAGE,NN,NN,Plume's approach to parsing,semantic caseframe instantiation,TRUE,USAGE
+USAGE,NN,JJ,unlexicalized parser,German,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,NN,context,dialogue,FALSE,MODEL-FEATURE
+USAGE,VBG,NN,Bayesian learning,speech recognition,FALSE,USAGE
+MODEL-FEATURE,NNP,NN,KL-ONE,epistemological level,FALSE,COMPARE
+USAGE,NN,NN,parsing,unification-based parsing,TRUE,USAGE
+MODEL-FEATURE,NN,NN,model,world,FALSE,RESULT
+MODEL-FEATURE,NN,NNS,equivalence,formalisms,FALSE,USAGE
+USAGE,NN,NN,construction-specific approach,flexible parsing,FALSE,USAGE
+PART_WHOLE,NNS,NN,quantified sentences,temporal connective,TRUE,PART_WHOLE
+USAGE,NN,NNS,unsupervised learning approach,lexical and syntactic features,TRUE,USAGE
+USAGE,NNS,NNS,knowledge-based generation systems,machine learning techniques,TRUE,PART_WHOLE
+PART_WHOLE,NNS,NNS,personal names,Chinese newspapers,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NNS,dependency structures,Japanese patent claim sentences,FALSE,MODEL-FEATURE
+MODEL-FEATURE,VBZ,NN,Polymorphemic stems,compositional interpretation,TRUE,PART_WHOLE
+RESULT,NNS,NN,Syllogistic reasoning with dispositions,commonsense reasoning,FALSE,PART_WHOLE
+MODEL-FEATURE,NNS,NN,methods,time exponential on the size of the grammar,TRUE,PART_WHOLE
+USAGE,NN,NN,one-time look up method,Korean-to-English and a Japanese-to-English dictionary,TRUE,USAGE
+USAGE,NN,NN,structural information,speech understanding,FALSE,USAGE
+MODEL-FEATURE,NNS,NN,ambiguity representations,ambiguity,FALSE,USAGE
+USAGE,NNP,NNS,TAG,lexicalized structures,FALSE,COMPARE
+USAGE,NNS,NN,indicators,retrieval approach,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,NN,interpretation,meaning,FALSE,MODEL-FEATURE
+USAGE,NNP,NN,TAGs,syntax proper,FALSE,COMPARE
+USAGE,NN,NNS,practically unsupervised learning method,single-snippet answers,FALSE,USAGE
+USAGE,NN,NN,corpus-based method,classifier assignment,FALSE,USAGE
+USAGE,IN,NN,disambiguation algorithms,discourse constraint,TRUE,TOPIC
+RESULT,NN,NNS,system,F-measures,FALSE,USAGE
+USAGE,NN,NN,training material,algorithm,FALSE,USAGE
+PART_WHOLE,NN,NN,knowledge,text,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NNP,nominal compounds,English,FALSE,PART_WHOLE
+USAGE,NNS,NNS,dictionaries,Japanese character strings,FALSE,MODEL-FEATURE
+USAGE,NNS,NNP,grammars,EDOL,TRUE,PART_WHOLE
+PART_WHOLE,NNS,NNS,terms,content words,TRUE,PART_WHOLE
+USAGE,NN,NNS,unsupervised learning algorithm,identification of paraphrases,FALSE,USAGE
+RESULT,NNS,NN,classifiers,gain,FALSE,PART_WHOLE
+USAGE,NNS,NNP,theories,Generalized Alignment,TRUE,PART_WHOLE
+PART_WHOLE,NN,NN,verb,sentence,FALSE,PART_WHOLE
+PART_WHOLE,JJ,NN,Graph unification,unification-based grammar parsing,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NNP,word senses,English,FALSE,MODEL-FEATURE
+COMPARE,NNS,NNS,concept-distance measures,traditional distributional word-distance measures,FALSE,MODEL-FEATURE
+USAGE,NN,NN,MT-based paraphrasing technique,QA system,FALSE,USAGE
+MODEL-FEATURE,NNS,NN,generators,portability,TRUE,PART_WHOLE
+USAGE,NNS,NN,cognitively well-motivated interfaces,display of graphical information,TRUE,PART_WHOLE
+PART_WHOLE,NNS,NNP,collocations,Czech WordNet,FALSE,PART_WHOLE
+TOPIC,VBZ,NNP,NL evaluations,Message Understanding Conferences,TRUE,PART_WHOLE
+MODEL-FEATURE,NN,NN,ambiguity,natural language,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,meaning,utterance,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NN,utterances,linguistic structure,TRUE,PART_WHOLE
+PART_WHOLE,NN,NN,corpus,newspaper corpus,TRUE,PART_WHOLE
+MODEL-FEATURE,NNS,NN,verb form meanings,habituality,TRUE,PART_WHOLE
+USAGE,NNS,NN,specialized parsing techniques,construction,FALSE,PART_WHOLE
+MODEL-FEATURE,NNS,NNS,topics,threads,FALSE,MODEL-FEATURE
+USAGE,NNS,NNS,Log-linear models,statistical alignment models,FALSE,MODEL-FEATURE
+USAGE,NNS,NNS,architectural modules,language functionalities,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NN,semantic verb classes,corpus data,FALSE,PART_WHOLE
+PART_WHOLE,NNS,NNS,nodes,vectors representing morpho-syntactic properties,TRUE,PART_WHOLE
+PART_WHOLE,NN,NN,Chinese language,verb,TRUE,PART_WHOLE
+PART_WHOLE,NN,NNS,topic signature,words,TRUE,MODEL-FEATURE
+USAGE,NN,JJ,syntax-based constraint,word alignment,FALSE,USAGE
+TOPIC,NNS,NN,user interface styles or conventions,TIPSTER Architecture specification,TRUE,PART_WHOLE
+MODEL-FEATURE,NN,NNS,output,segmentation standards,TRUE,USAGE
+PART_WHOLE,NN,NN,test set,DARPA Resource Management corpus,FALSE,USAGE
+RESULT,NN,NNS,referential information,machine translation outputs,FALSE,USAGE
+USAGE,NN,NNS,deep processing,shallow techniques,TRUE,USAGE
+RESULT,NN,VBG,accuracy,part of speech (pos) tagging,TRUE,USAGE
+PART_WHOLE,NN,NN,dialogue acquisition and tracking algorithm,voice interactive system,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,weights,lexical translations,FALSE,MODEL-FEATURE
+COMPARE,NNS,NNS,statistics,speech data,FALSE,MODEL-FEATURE
+USAGE,NNS,NN,lexicons,operational foreign language tutoring,FALSE,PART_WHOLE
+USAGE,NN,NN,word clustering,automatic extraction,TRUE,USAGE
+USAGE,NNS,NNS,error correction mechanisms,unseen data,FALSE,MODEL-FEATURE
+USAGE,NN,NN,algorithm,discourse context,FALSE,USAGE
+RESULT,NN,NN,processing,discourse,FALSE,PART_WHOLE
+USAGE,VBG,NNS,indexing,character bigrams,TRUE,USAGE
+MODEL-FEATURE,NNS,NNS,binary relations,objects,FALSE,USAGE
+PART_WHOLE,NNS,NN,missing words,ellipsis,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,sentence,meaning,TRUE,MODEL-FEATURE
+RESULT,NNS,NNS,evaluation measures,word-dependent substitution costs,TRUE,PART_WHOLE
+COMPARE,NNS,NN,single-strategy parsers,multi-strategy approach,FALSE,PART_WHOLE
+USAGE,NNS,NNS,information extraction techniques,supervised training data,TRUE,PART_WHOLE
+MODEL-FEATURE,NNS,NNS,NLP tasks,graph transformations,TRUE,PART_WHOLE
+MODEL-FEATURE,JJ,NNP,hardness,NP,TRUE,MODEL-FEATURE
+PART_WHOLE,NN,NNS,dialog manager,collection of dialog motivators,TRUE,USAGE
+USAGE,NN,NN,priming,incremental probabilistic parser,FALSE,USAGE
+COMPARE,NNS,NNS,interfaces,natural language interfaces,FALSE,MODEL-FEATURE
+USAGE,NN,NN,hypotheses graph,shallow mapping,TRUE,USAGE
+USAGE,NNS,NN,AI problem solving techniques,systemic grammar,FALSE,PART_WHOLE
+USAGE,NNS,NN,statistical approaches,maximum likelihood method,TRUE,PART_WHOLE
+COMPARE,NN,NN,speaker,listener,FALSE,USAGE
+USAGE,NN,NNS,lexical hierarchy,linguistic concepts,FALSE,USAGE
+PART_WHOLE,NN,NNS,database,TV shows,TRUE,USAGE
+RESULT,NNP,NN,Plume,syntactic coverage,FALSE,COMPARE
+USAGE,NNS,NN,field structured extraction tasks,prior knowledge,TRUE,PART_WHOLE
+PART_WHOLE,NNS,NNP,demonstrative expressions,English,FALSE,PART_WHOLE
+USAGE,NN,NN,model design,second language and cognitive skill acquisition,TRUE,USAGE
+MODEL-FEATURE,NN,NN,mismatch resolution scheme,information flow,TRUE,USAGE
+PART_WHOLE,NN,NN,Kullback-Leibler distance,cross-entropy,TRUE,USAGE
+PART_WHOLE,NN,NN,sentence,well-written discourse,FALSE,PART_WHOLE
+RESULT,NNS,NN,supervised and unsupervised methods,performance,FALSE,RESULT
+USAGE,NNP,NNS,RAREAS,formatted weather data,FALSE,COMPARE
+USAGE,NN,NN,phrase-based unigram model,statistical machine translation,FALSE,USAGE
+USAGE,NNS,NNS,transliteration/backtransliteration experiments,English/Chinese and English/Japanese language pairs,FALSE,MODEL-FEATURE
+RESULT,NN,NNP,suffix analysis,labelled bracket F-score,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,JJ,classifier word,noun,FALSE,MODEL-FEATURE
+USAGE,NNS,NNS,automatic abstracting systems,training resources,TRUE,PART_WHOLE
+COMPARE,NN,NNS,MWEs database,corpus data,FALSE,USAGE
+PART_WHOLE,NNS,NNS,phrases,high-accuracy word-level alignment models,FALSE,PART_WHOLE
+USAGE,NN,NN,decision tree based approach,pronoun resolution,FALSE,USAGE
+MODEL-FEATURE,NN,NN,structure,information source,FALSE,USAGE
+USAGE,NNS,NN,cooccurrence statistics,disambiguation tool,FALSE,PART_WHOLE
+RESULT,NN,NN,domain-specific word alignment,relative error rate reduction,FALSE,USAGE
+MODEL-FEATURE,NN,NN,focus of attention,attentional state,TRUE,USAGE
+MODEL-FEATURE,NNP,NNS,English,corpus data,FALSE,COMPARE
+MODEL-FEATURE,NN,NNS,derivation,syntactic and semantic dependencies,FALSE,USAGE
+USAGE,NNP,NN,domain-independent means of evaluating Spoken Language Systems,software,TRUE,USAGE
+MODEL-FEATURE,NN,NNP,corpus,Child Language Data Exchange System,TRUE,PART_WHOLE
+RESULT,NN,NN,data representation choice,chunking performance,FALSE,USAGE
+MODEL-FEATURE,NNS,NNP,circuit specifications,temporal logic CTL,TRUE,PART_WHOLE
+USAGE,NN,NNP,range concatenation grammar [RCG] formalism,NLP,FALSE,MODEL-FEATURE
+MODEL-FEATURE,JJ,NNP,summary,English,TRUE,MODEL-FEATURE
+PART_WHOLE,NN,NN,translation knowledge,bilingual corpora,FALSE,USAGE
+PART_WHOLE,NN,NNS,scfs,corpus data,FALSE,USAGE
+USAGE,NNS,NN,parsing strategies,control structure,TRUE,USAGE
+PART_WHOLE,NN,NNP,functional structure,LFG,FALSE,USAGE
+MODEL-FEATURE,NN,NNS,predicative information,nominals,FALSE,USAGE
+USAGE,NN,NN,grammar,linguistic introspection,TRUE,USAGE
+COMPARE,NNS,NNS,unification-based grammatical frameworks,KL-ONE-like knowledge representation systems,FALSE,MODEL-FEATURE
+USAGE,NNS,NN,machine learning techniques,comma checker,FALSE,PART_WHOLE
+PART_WHOLE,NN,NN,mapping score,correlation measure,FALSE,USAGE
+PART_WHOLE,NNS,NN,temporal expressions,newswire texts,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,theory,content-independent formalism,TRUE,USAGE
+USAGE,NN,NN,Systemic grammar,AI text generation,FALSE,USAGE
+RESULT,JJ,NN,subcategorization dictionary,accuracy,FALSE,RESULT
+USAGE,NN,NNS,morphological analyzer,"""recognition and classification of proper names", numerical and temporal expressions," i.e. Named Entity (NE) items""",FALSE,RESULT
+USAGE,NNP,NN,RAREAS,linguistic and non-linguistic knowledge,TRUE,USAGE
+PART_WHOLE,NNS,NN,referents,anaphora,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,NNS,linguistic expressiveness,formalisms,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,frequency counts,word n-grams,FALSE,MODEL-FEATURE
+USAGE,NN,NN,Natural Language Processing (NLP) system,new domain,TRUE,USAGE
+USAGE,NN,NN,Bayesian semi-supervised Chinese word segmentation model,monolingual and bilingual information,TRUE,USAGE
+USAGE,NNP,NN,MT,Chinese word segmenter,TRUE,USAGE
+TOPIC,NN,NNS,formal analysis,alternative markers,FALSE,USAGE
+RESULT,NN,NN,paraphrasing method,precision,FALSE,USAGE
+COMPARE,NNS,NNS,WordNet-based measures,distributional concept-distance measures,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNP,NN,continuous density HMM,Gaussian mixture,TRUE,USAGE
+PART_WHOLE,NN,NNS,corpus,words,TRUE,PART_WHOLE
+USAGE,NN,NNP,corpus-based approach,verb-noun collocation dictionary for Polish,FALSE,MODEL-FEATURE
+USAGE,NN,NN,parser,large-vocabulary speech recognition,FALSE,USAGE
+USAGE,NNS,NN,Dialogue strategies,user modeling,TRUE,PART_WHOLE
+USAGE,NN,NN,logical model,formulas,FALSE,COMPARE
+USAGE,NN,NNS,support vector machine,features,TRUE,USAGE
+PART_WHOLE,NN,NN,translation lexicon,legal terminology,TRUE,USAGE
+USAGE,NN,NNS,natural language interpretation,semantic domain models,TRUE,USAGE
+USAGE,NN,NN,evaluation method,latent variable model,TRUE,USAGE
+MODEL-FEATURE,NNS,NNS,inference types,certainty conditions,TRUE,PART_WHOLE
+USAGE,NN,NN,database,tagging,FALSE,USAGE
+MODEL-FEATURE,NNS,NN,sentences,context,FALSE,PART_WHOLE
+MODEL-FEATURE,VBZ,NN,log(d) overheads,structure-sharing of graphs,FALSE,COMPARE
+USAGE,NN,NNS,speech processing,finite-state models,TRUE,USAGE
+USAGE,NN,NN,Minimum Bayes-Risk (MBR) decoding,statistical machine translation,FALSE,USAGE
+PART_WHOLE,NN,NNP,syntactico-semantic (tectogrammatical) annotation,Prague Dependency Treebank,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NNS,sentences,quantification over events,TRUE,PART_WHOLE
+COMPARE,NNS,NNS,models,preceding words,FALSE,MODEL-FEATURE
+USAGE,NN,NNS,ensemble learning approach,German pronouns,FALSE,USAGE
+MODEL-FEATURE,NNS,NNP,naming conventions,MeSH,FALSE,PART_WHOLE
+USAGE,NN,NNS,extraction system,complex sentences,FALSE,USAGE
+MODEL-FEATURE,NN,NNS,annotating scheme,honorifics,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,biological entities,biomedical and linguistic ontologies,TRUE,PART_WHOLE
+USAGE,NN,NNS,decision-tree approach,probabilities,FALSE,USAGE
+MODEL-FEATURE,NN,JJ,Comparator software,domain-independent,TRUE,USAGE
+PART_WHOLE,NNP,NNS,English,grammatical sentences,TRUE,USAGE
+USAGE,NNS,NNP,procedures,Comparator,FALSE,PART_WHOLE
+USAGE,NN,NNS,ECA,verbal and nonverbal grounding acts,TRUE,USAGE
+USAGE,NN,NNS,unsupervised learning method,associative relationships between verb phrases,FALSE,USAGE
+RESULT,NN,NN,CFG parser,BMM algorithm,FALSE,USAGE
+COMPARE,NN,NN,rule-based learning algorithm,memory-based system,FALSE,USAGE
+PART_WHOLE,NN,NN,Chinese text,corpora,FALSE,PART_WHOLE
+USAGE,NN,NN,statistical machine translation,dynamic programming,TRUE,USAGE
+COMPARE,NN,NN,Path-based inference,node-based inference,FALSE,USAGE
+PART_WHOLE,NN,NN,texts,target corpus,FALSE,USAGE
+RESULT,NN,NN,accuracy,classification method,TRUE,RESULT
+PART_WHOLE,NN,NN,fuzzy quantifier,proposition,FALSE,MODEL-FEATURE
+PART_WHOLE,NN,NN,punctuation,spoken corpora,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,features,terms,FALSE,MODEL-FEATURE
+COMPARE,NN,NN,Japanese sentence structure,English sentence structure,FALSE,USAGE
+USAGE,NNS,NN,decision trees,probability estimation,FALSE,PART_WHOLE
+PART_WHOLE,NN,NNS,repository,data objects,TRUE,USAGE
+COMPARE,NNS,NNS,rhetorical patterns,patterns,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NNS,decision tree,modification probabilities,FALSE,USAGE
+COMPARE,NN,NN,system's output,benchmark system,FALSE,USAGE
+MODEL-FEATURE,NNS,NN,paraphrases,context,TRUE,MODEL-FEATURE
+PART_WHOLE,NN,NNP,large Czech MWE database,MWEs,TRUE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NNS,features,heuristic principles,FALSE,MODEL-FEATURE
+USAGE,NNS,NNP,continuous speech recognition (CSR) techniques,Spoken Language Systems,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,JJ,raw text,French,TRUE,USAGE
+USAGE,NN,NNS,question-focused sentence retrieval,news articles,FALSE,USAGE
+MODEL-FEATURE,NN,NNS,inheritance,hierarchies,FALSE,USAGE
+PART_WHOLE,NNS,NN,character types,word,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NNS,dependency relations,question phrases,FALSE,MODEL-FEATURE
+USAGE,NN,NNS,editor,lexicologists,FALSE,USAGE
+RESULT,NN,VBG,performance,coarse-level clustering,TRUE,USAGE
+USAGE,VBZ,NN,topic signatures,WSD task,FALSE,COMPARE
+MODEL-FEATURE,NN,NNS,polysemy,clusters,FALSE,USAGE
+PART_WHOLE,NNS,NNS,words,constituent parts,TRUE,MODEL-FEATURE
+USAGE,NNP,NN,KPSG,phonological system,FALSE,COMPARE
+USAGE,NN,NN,model,error correction,FALSE,RESULT
+MODEL-FEATURE,NN,NN,local structure,coherent text,FALSE,USAGE
+MODEL-FEATURE,NNS,NN,coordinations,strictly syntactic cross-serial agreement,FALSE,PART_WHOLE
+USAGE,NN,NN,parsing,Wall Street Journal treebank,FALSE,USAGE
+USAGE,NN,NN,MBR decoding,statistical MT performance,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,dependencies,arguments,FALSE,MODEL-FEATURE
+RESULT,NN,NN,model,performance,FALSE,RESULT
+USAGE,NN,NNS,word sense disambiguation,manually sense-tagged data,TRUE,USAGE
+MODEL-FEATURE,NNS,NN,semantics,logical form language,TRUE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NN,paraphrases,contexts,TRUE,PART_WHOLE
+MODEL-FEATURE,NN,NNS,meaning,tenses,FALSE,MODEL-FEATURE
+USAGE,NN,NN,part-of-speech annotation,corpus,FALSE,USAGE
+USAGE,NN,NN,case-based reasoning,machine translation,FALSE,USAGE
+USAGE,NNS,NNS,priors,conditional loglinear models,FALSE,MODEL-FEATURE
+USAGE,NN,NN,forward pass,word graph,TRUE,USAGE
+USAGE,NN,NNS,log-linear combination,translation paths,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,meanings,utterances,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NN,subtrees,representation tree,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NN,analyses,input word,FALSE,PART_WHOLE
+MODEL-FEATURE,NNP,NN,KL-Conc,conceptual level,FALSE,COMPARE
+MODEL-FEATURE,NN,NNS,part of speech information,words,FALSE,MODEL-FEATURE
+PART_WHOLE,NN,NNS,corpus,words,TRUE,PART_WHOLE
+MODEL-FEATURE,NN,NN,board,Intel i860 chip,TRUE,USAGE
+TOPIC,NNS,NNP,computational semantic analyses,English,FALSE,PART_WHOLE
+COMPARE,NNS,NNS,word-lemma based feature function models,token-based models,FALSE,MODEL-FEATURE
+PART_WHOLE,NN,NN,sense resolution,text processing,FALSE,USAGE
+PART_WHOLE,NNS,NN,functions,formal language,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,NNS,similarity,vectors,FALSE,MODEL-FEATURE
+PART_WHOLE,NN,NN,story,corpus,FALSE,USAGE
+USAGE,NN,NN,word sense disambiguation,parallel corpora,TRUE,RESULT
+PART_WHOLE,NNS,NNS,words,song lyrics,FALSE,MODEL-FEATURE
+USAGE,VBG,NN,smoothing,unlexicalized parser,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,verbs,multiple complementation patterns,TRUE,MODEL-FEATURE
+USAGE,NNS,NNS,decision strategies,speech data,TRUE,PART_WHOLE
+USAGE,NN,NN,localized phrase-based prediction model,statistical machine translation,FALSE,USAGE
+USAGE,NN,NN,programming language,logic,TRUE,USAGE
+MODEL-FEATURE,NNS,NNS,verbs,argument structures,FALSE,MODEL-FEATURE
+USAGE,NNS,NNS,semi-supervised methods,labeled data,TRUE,PART_WHOLE
+RESULT,NN,NN,quality,accuracy,FALSE,RESULT
+PART_WHOLE,NNS,NNS,phrases,unknown words,TRUE,PART_WHOLE
+USAGE,NN,NNP,grammar checker,Basque,FALSE,MODEL-FEATURE
+USAGE,NNS,NNS,well calibrated probabilities,sense priors,FALSE,MODEL-FEATURE
+PART_WHOLE,NNP,NNS,Taiwan Child Language Corpus,scripts,TRUE,USAGE
+USAGE,NN,JJ,parsing,Korean,FALSE,USAGE
+USAGE,NNS,NNP,computational methods,KDS,FALSE,PART_WHOLE
+MODEL-FEATURE,NNS,NNS,parse-trees,source and target language sentences,FALSE,MODEL-FEATURE
+USAGE,NN,NNS,word alignment,log-linear models,TRUE,USAGE
+USAGE,NN,NNS,discourse structure,discourse connectives,TRUE,USAGE
+COMPARE,NNP,NNS,full NPs,referential elements,FALSE,COMPARE
+MODEL-FEATURE,NN,NN,meaning,proposition,FALSE,MODEL-FEATURE
+USAGE,NNS,NN,machine-readable dictionaries,broad coverage lexicon,FALSE,PART_WHOLE
+COMPARE,NNS,NNS,dictionaries of word forms,words,FALSE,PART_WHOLE
+PART_WHOLE,NN,NNP,morphological component,NLP-system for Dutch,FALSE,USAGE
+RESULT,NN,NN,accuracy,language identification,TRUE,RESULT
+RESULT,NN,NN,model,macro-average F1 performance,FALSE,RESULT
+MODEL-FEATURE,NN,NN,feedback,discourse,FALSE,PART_WHOLE
+COMPARE,NNP,NNP,LEXSYS,XTAG,FALSE,COMPARE
+USAGE,NN,NN,training method,translation accuracy,TRUE,USAGE
+PART_WHOLE,JJ,NN,hubs,automaton,FALSE,MODEL-FEATURE
+COMPARE,NNS,NNS,log-linear models,IBM translation models,FALSE,MODEL-FEATURE
+USAGE,NN,NNS,grammar,crossed serial dependencies,FALSE,USAGE
+USAGE,NNS,NNS,rules,mathematical expressions,FALSE,PART_WHOLE
+PART_WHOLE,NNP,NN,HPSG,principle-based theory,TRUE,USAGE
+MODEL-FEATURE,NNS,NNS,analogies,sentences,FALSE,MODEL-FEATURE
+USAGE,NN,NNS,linear logic,computational linguistics,FALSE,USAGE
+PART_WHOLE,NNS,NNS,operational semantics,natural language applications,FALSE,MODEL-FEATURE
+USAGE,NN,NN,speech and text-image recognition,documents with signal content,FALSE,USAGE
+PART_WHOLE,NN,NNS,root word lexicon,roots words,TRUE,USAGE
+RESULT,VBG,NN,paraphrasing,parser,TRUE,USAGE
+USAGE,NNS,NN,multiple parsing strategies,recognition of extra-grammatical input,FALSE,PART_WHOLE
+USAGE,NNP,NN,Augmented Transition Network,dialog model,FALSE,COMPARE
+PART_WHOLE,NNS,NNS,parallel structures,human data,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,Verbmobil task,limited-domain spoken-language task,TRUE,USAGE
+MODEL-FEATURE,NN,NN,sentence analysis,defeasible reasoning,FALSE,USAGE
+PART_WHOLE,NNS,NNS,features,discriminative log-linear models,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NNS,coordinate phrases,conjuncts,TRUE,PART_WHOLE
+MODEL-FEATURE,NNP,NN,Bulgarian,free word order,FALSE,COMPARE
+PART_WHOLE,NNS,NN,subcategorization cues,spoken language,FALSE,PART_WHOLE
+USAGE,NNS,NN,pruning criteria,Chinese text input,FALSE,PART_WHOLE
+USAGE,NN,NN,decoding,non-literal aspects of communication,TRUE,USAGE
+USAGE,NN,NNS,token classification task,tagging strategies,TRUE,USAGE
+USAGE,NNS,NNS,information retrieval techniques,keywords,TRUE,PART_WHOLE
+MODEL-FEATURE,NN,NNS,syntax,answer expressions,FALSE,MODEL-FEATURE
+USAGE,NN,NN,algorithms,intractability,FALSE,USAGE
+USAGE,NNP,NN,large-vocabulary CSR,ARPA large-vocabulary CSR corpora,FALSE,COMPARE
+USAGE,NNS,NN,training and test data,subcategorization acquisition,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,NN,evidence,unknown word,FALSE,USAGE
+MODEL-FEATURE,NN,NNS,meaning,tenses,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,syntactic information,source language,FALSE,USAGE
+PART_WHOLE,NN,NNS,CCLINC Korean-to-English translation system,core modules,TRUE,USAGE
+USAGE,NN,NN,discourse segmentation,abduction,TRUE,USAGE
+MODEL-FEATURE,NN,NNS,verbs,subpredicates,TRUE,MODEL-FEATURE
+USAGE,NNS,NN,grammars,natural language processing,FALSE,PART_WHOLE
+USAGE,NN,NNS,user modeling,cooperative responses,FALSE,USAGE
+MODEL-FEATURE,NN,NNS,coherence,essays,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,ranks,referents,FALSE,MODEL-FEATURE
+PART_WHOLE,NN,NNS,aligned bilingual corpus,word examples,TRUE,USAGE
+USAGE,NNS,NN,dictionary-based word vectors,taxonomic similarity,FALSE,PART_WHOLE
+USAGE,NNP,NNP,GUIs,CRL's TIPSTER User Interface Toolkit,TRUE,USAGE
+MODEL-FEATURE,NN,NNP,inflection,English,FALSE,MODEL-FEATURE
+USAGE,NN,NNP,feature-based relation extraction,SVM,TRUE,USAGE
+USAGE,NNS,NN,features,lexical similarity,FALSE,MODEL-FEATURE
+RESULT,NN,NN,dynamic language model combination,performance,FALSE,RESULT
+USAGE,NN,NNS,algorithm for translation lexicon acquisition,translation lexicons,FALSE,USAGE
+RESULT,NN,NN,retrieval performance,translation memory system,TRUE,USAGE
+USAGE,NNS,NN,error-correction rules,Thai key prediction,FALSE,PART_WHOLE
+PART_WHOLE,NNP,NN,MORphological PArser MORPA,probabilistic context-free grammar,TRUE,USAGE
+USAGE,NNS,NNS,Japanese parsers,decision trees,TRUE,PART_WHOLE
+PART_WHOLE,NN,NN,connectionist component,parsing process,FALSE,USAGE
+USAGE,NN,NN,machine learning approach,bare slice disambiguation,FALSE,USAGE
+PART_WHOLE,NN,NNS,texts,demonstrative forms and functions,TRUE,USAGE
+USAGE,NNP,VBG,Q/A,predictive questioning,TRUE,USAGE
+MODEL-FEATURE,NN,NNS,conditional log-linear model,hidden variables,TRUE,USAGE
+USAGE,NN,NNS,discourse understanding process,spoken dialogue systems,FALSE,USAGE
+PART_WHOLE,NNS,NNP,relations,MeSH,FALSE,PART_WHOLE
+RESULT,NNS,NN,interpolation methods,performance,FALSE,RESULT
+MODEL-FEATURE,NN,NN,statistical profile,Named Entity task,FALSE,USAGE
+USAGE,NN,NN,transfer component,parse reduction,FALSE,USAGE
+PART_WHOLE,NNS,NN,coarse-grained concepts,concept-concept matrix,FALSE,PART_WHOLE
+MODEL-FEATURE,NNS,NNS,languages,alphabets,FALSE,MODEL-FEATURE
+USAGE,NNS,NNS,grammars,parser for non-configurational languages,FALSE,PART_WHOLE
+USAGE,NNP,NNS,Chat-80,English questions,FALSE,COMPARE
+PART_WHOLE,NNP,NN,STRAND,automatic language identification,TRUE,USAGE
+USAGE,NN,NN,constraint,word-sense disambiguation algorithm,FALSE,USAGE
+PART_WHOLE,NNS,NN,modules,architecture,FALSE,PART_WHOLE
+PART_WHOLE,NNS,NN,words,text,FALSE,MODEL-FEATURE
+COMPARE,VBZ,NN,answer resolution algorithm,baseline system,FALSE,COMPARE
+PART_WHOLE,NNS,NN,answers,corpora,FALSE,PART_WHOLE
+RESULT,NN,NNP,translation quality,EBMT,TRUE,USAGE
+PART_WHOLE,NNS,NNP,gold-standard parse trees,PropBank,FALSE,PART_WHOLE
+COMPARE,NN,NN,induced model,state-of-the-art coherence model,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,Term similarities,query terms,FALSE,MODEL-FEATURE
+RESULT,NNS,NNS,Information extraction techniques,structured databases,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NN,segments,dialogue,FALSE,PART_WHOLE
+COMPARE,NNS,NN,classifiers,lemma-based approach,FALSE,PART_WHOLE
+USAGE,NN,NN,grammar,generator,FALSE,USAGE
+MODEL-FEATURE,NN,NN,user model,user,FALSE,PART_WHOLE
+PART_WHOLE,NN,NNS,interface,IE-enhanced text browsers,FALSE,USAGE
+PART_WHOLE,NNS,NN,words,restricted vocabulary,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NNS,strength of potential antecedence,substitutions,FALSE,USAGE
+USAGE,NN,NNP,classification method,PER,TRUE,USAGE
+PART_WHOLE,NN,NN,ambiguity resolution,dependency parsing,FALSE,USAGE
+PART_WHOLE,NNS,NN,syntactic structure features,parse tree,FALSE,PART_WHOLE
+PART_WHOLE,NNS,NNS,feature selection methods,log-linear (maximum-entropy) models,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,sentiment vector space model,song lyric document,FALSE,USAGE
+MODEL-FEATURE,NN,NNP,semantic expressibility,CTL,FALSE,MODEL-FEATURE
+USAGE,NNS,NNP,spelling-checkers,English,FALSE,PART_WHOLE
+PART_WHOLE,NNS,NN,terms,corpus,FALSE,PART_WHOLE
+USAGE,NN,NNS,semantic role labeling,independent classifiers,TRUE,MODEL-FEATURE
+MODEL-FEATURE,NNP,NNS,CAS,domains,TRUE,USAGE
+MODEL-FEATURE,NN,NNS,model,class of languages,FALSE,USAGE
+USAGE,NNS,NN,word-based collocational properties,automatic segmentation,TRUE,PART_WHOLE
+USAGE,NNS,NN,hardware designs,model checking,TRUE,PART_WHOLE
+PART_WHOLE,NN,NNP,grammatical number,English,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NN,range concatenation languages,polynomial time,TRUE,PART_WHOLE
+MODEL-FEATURE,NN,NN,language model,manually segmented corpus,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NN,training and test data,topic,TRUE,PART_WHOLE
+USAGE,NNP,NNS,SVMs,language processing tasks,FALSE,COMPARE
+USAGE,NN,NN,speaker adaptation,SI corpus,TRUE,USAGE
+MODEL-FEATURE,NN,NNS,full scale two-level morphological description,Turkish word structures,FALSE,USAGE
+USAGE,NN,NN,editor,dictionary,FALSE,PART_WHOLE
+MODEL-FEATURE,NNS,NNS,models,probabilistic context-free grammars,TRUE,PART_WHOLE
+USAGE,NN,NN,statistical parser,written and spoken language,FALSE,USAGE
+COMPARE,JJ,NNS,semantic,syntactic categories,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,tree adjoining grammar,O(n6) time,TRUE,USAGE
+MODEL-FEATURE,NNS,NN,seeds,concept,FALSE,PART_WHOLE
+PART_WHOLE,NN,NN,modular architecture,understanding,TRUE,USAGE
+COMPARE,NNP,NNP,Tree Adjoining Grammars,Head Grammars,FALSE,COMPARE
+MODEL-FEATURE,NN,NNS,directionality,dictionaries,FALSE,USAGE
+MODEL-FEATURE,NN,NNS,interpretation,compounds,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NN,sentences,subset,FALSE,PART_WHOLE
+PART_WHOLE,NN,NNP,model,APT,FALSE,RESULT
+USAGE,NN,NNS,statistical translation model,phrases,FALSE,MODEL-FEATURE
+USAGE,JJ,NN,French,test language,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NNS,NN,sense-tagged training data,English-Chinese parallel corpora,FALSE,PART_WHOLE
+USAGE,NN,NN,conventional context-free morphological grammar,probability-based scoring function,TRUE,USAGE
+MODEL-FEATURE,NN,NN,formalization,defeasible reasoning,FALSE,MODEL-FEATURE
+PART_WHOLE,NN,NNS,recognition technology,document-oriented applications,FALSE,USAGE
+PART_WHOLE,NNS,NN,terms,hierarchically-structured terminology,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,NN,generalized translation knowledge,Korean-English translation,FALSE,USAGE
+MODEL-FEATURE,NN,NN,computational model,word segmentation,FALSE,USAGE
+COMPARE,NNS,VBZ,syntactic cues,word senses,FALSE,COMPARE
+COMPARE,NN,NN,method,baseline,FALSE,RESULT
+MODEL-FEATURE,NN,NN,sense,phrase,FALSE,PART_WHOLE
+USAGE,NNS,NNS,bilingual dependency relations,statistical alignment techniques,TRUE,PART_WHOLE
+USAGE,NN,NNP,language tutoring application,written English,FALSE,MODEL-FEATURE
+USAGE,NN,NNP,interactive question-answering (Q/A) system,automatic Q/A,FALSE,MODEL-FEATURE
+USAGE,NNS,NN,dependency relation paths,answer extraction,FALSE,PART_WHOLE
+PART_WHOLE,NN,NN,language learning model,lexical hierarchy,TRUE,USAGE
+PART_WHOLE,NNS,NN,fragments,sentence,FALSE,PART_WHOLE
+USAGE,NNS,NNS,well calibrated probabilities,estimations,FALSE,MODEL-FEATURE
+MODEL-FEATURE,NN,NN,convolution kernel,syntactic structure information,FALSE,USAGE
+COMPARE,NNS,NNS,bag-of-words methods,segment order-sensitive methods,FALSE,MODEL-FEATURE
+USAGE,NN,NN,automatic estimation method,word significance,FALSE,USAGE
+USAGE,NNS,NN,Recognition of proper nouns,Japanese text,FALSE,PART_WHOLE
+PART_WHOLE,NN,NN,interlingua,multi-pathway MT architecture design,FALSE,USAGE
+USAGE,NNS,NN,evaluation measures,machine translation,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,sense priors,words,FALSE,PART_WHOLE
+MODEL-FEATURE,NNS,NN,transcription errors,ASR output,FALSE,PART_WHOLE
+MODEL-FEATURE,NN,NN,confidence,extracted field,FALSE,MODEL-FEATURE
+PART_WHOLE,NNS,NN,categories,thesaurus,FALSE,PART_WHOLE
+PART_WHOLE,NN,NN,parser,control structure,TRUE,USAGE
+MODEL-FEATURE,NNS,NNP,French tenses,Discourse Representation Theory,TRUE,PART_WHOLE
+PART_WHOLE,NN,NN,morphological analysis,Japanese text processing,FALSE,USAGE
+PART_WHOLE,NN,NNS,grammar,parallel corpora,FALSE,USAGE
+USAGE,NN,NNS,system,acquiring adjectival subcategorization frames,FALSE,USAGE
+PART_WHOLE,NNS,NNP,Wall Street Journal articles,Penn Treebank Corpus,FALSE,PART_WHOLE
+USAGE,NN,NN,syntax-based statistical machine translation system,probabilistic synchronous dependency insertion grammar,TRUE,USAGE
+USAGE,NN,NNP,transfer approach,MT,FALSE,USAGE
+USAGE,NN,NN,entirely data-driven model selection procedure,genetic search,TRUE,USAGE
+USAGE,NN,NN,task,data retrieval,TRUE,USAGE
+USAGE,NN,NN,utterance classification,manual transcription,TRUE,USAGE
+USAGE,NN,NNP,dialog management system,Construct Algebra,TRUE,USAGE
+USAGE,NN,NN,algorithm,language pairs,FALSE,USAGE
+USAGE,NN,NN,distributional approximation,probabilistic finite automata,TRUE,USAGE
+USAGE,NNS,NN,different-quality references,evaluation,FALSE,PART_WHOLE
+USAGE,NN,JJ,morphological analysis problem,Japanese,FALSE,COMPARE
+USAGE,NNS,NNS,method of analyzing metaphors,generalized metaphor mappings,TRUE,PART_WHOLE
+PART_WHOLE,NNS,NN,question-answer pairs,email conversation,TRUE,PART_WHOLE
+USAGE,NN,NN,voice input,interactive problem solving,FALSE,USAGE
+USAGE,NNS,NN,utterances,adaptation,FALSE,PART_WHOLE
+USAGE,NNS,NN,LSA-based and the cooccurrence-based word vectors,associative similarity,FALSE,PART_WHOLE
+USAGE,NN,NN,semantic representation,virtual reality 3D scene modeling software,FALSE,USAGE
+USAGE,NN,NNS,term extraction,delimiters,TRUE,USAGE
+MODEL-FEATURE,VB,NN,n-gram transliteration model,transliteration process,FALSE,MODEL-FEATURE
+USAGE,NN,NNS,connectionist (neural) network,expected (grammatical) sentences,FALSE,USAGE
+USAGE,NNP,NNP,Similarity-driven Transfer System,case-based MT,FALSE,COMPARE
+MODEL-FEATURE,NNS,NNS,events,event terms,TRUE,PART_WHOLE
+USAGE,NN,NN,component,decision tree architecture,TRUE,USAGE
+USAGE,NNS,NNP,automatic metrics,MT,FALSE,USAGE
+COMPARE,NNS,NN,human transcriptions,speech recognition,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,spatial attributes,entities,FALSE,MODEL-FEATURE
+USAGE,NN,NN,sentence extraction,summarization,FALSE,USAGE
+MODEL-FEATURE,NNS,NNS,word-senses,words with multiple meanings,FALSE,MODEL-FEATURE
+USAGE,NN,NN,parser,text-to-speech conversion system,FALSE,USAGE
+PART_WHOLE,NN,JJ,grammatical gender,French,FALSE,USAGE
+MODEL-FEATURE,NN,NNS,sparsity of the feature space,parsing data,FALSE,USAGE
